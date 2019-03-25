@@ -62,7 +62,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](./136/Solution.py)|[Note](./136/note.md)|Easy|O(n)|O(1)|Bit Manipulation|
-|No.191|[NUmber of 1 bits](https://leetcode.com/problems/number-of-1-bits/)|[Solution](./191/Solution.py)|[Note](./191/note.md)|Easy|O(1)|O(1)|Bit Manipulation|
+|No.191|[Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/)|[Solution](./191/Solution.py)|[Note](./191/note.md)|Easy|O(1)|O(1)|Bit Manipulation|
 |No.190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Solution](./190/Solution.py)|[Note](./190/note.md)|Easy|O(1)|O(1)|Bit Manipulation|
 |No.231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](./231/Solution.py)|[Note](./231/note.md)|Easy|O(1)|O(1)|Bit Manipulation|
 |No.342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Solution](./342/Solution.py)|[Note](./342/note.md)|Easy|O(1)|O(1)|Bit Manipulation|
@@ -80,7 +80,7 @@ Table of Contents
 ## Array
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.26|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](./26/Solution.py)|[Note](./26/note.md)|Easy|O(n)|O(1)|Array|
 
 
 ## String
