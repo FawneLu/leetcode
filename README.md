@@ -80,8 +80,8 @@ Table of Contents
 ## Array
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-|No.26|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](./26/Solution.py)|[Note](./26/note.md)|Easy|O(n)|O(1)|Array|
-
+|No.026|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](./026/Solution.py)|[Note](./026/note.md)|Easy|O(n)|O(1)|Array|
+|No.027|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](./027/Solution.py)|[Note](./027/note.md)|Easy|O(n)|O(1)|Array|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
