@@ -84,7 +84,9 @@ Table of Contents
 |No.027|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](./027/Solution.py)|[Note](./027/note.md)|Easy|O(n)|O(1)|Array|
 |No.066|[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](./066/Solution.py)|[Note](./066/note.md)|Easy|O(n)|O(1)|Array|
 |No.169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Solution](./169/Solution.py)|[Note](./169/note.md)|Easy|O(n)|O(1)|Array|
-
+|No.189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](./189/Solution.py)|[Note](./189/note.md)|Easy|O(n)|O(1)|Array|
+|No.121|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](./121/Solution.py)|[Note](./121/note.md)|Easy|O(n)|O(1)|Array|
+|No.905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Solution](./905/Solution.py)|[Note](./905/note.md)|Easy|O(n)|O(1)|Array|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
