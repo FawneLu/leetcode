@@ -87,6 +87,9 @@ Table of Contents
 |No.189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](./189/Solution.py)|[Note](./189/note.md)|Easy|O(n)|O(1)|Array|
 |No.121|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](./121/Solution.py)|[Note](./121/note.md)|Easy|O(n)|O(1)|Array|
 |No.905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Solution](./905/Solution.py)|[Note](./905/note.md)|Easy|O(n)|O(1)|Array|
+|No.896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Solution](./896/Solution.py)|[Note](./896/note.md)|Easy|O(n)|O(1)|Array|
+|No.448|[Find All Numbers Disappear In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](./448/Solution.py)|[Note](./448/note.md)|Easy|O(n)|O(1)|Array|
+|No.821|[Shortest Distance To a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Solution](./821/Solution.py)|[Note](./821/note.md)|Easy|O(n)|O(1)|Array|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
