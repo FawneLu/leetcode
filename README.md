@@ -90,7 +90,9 @@ Table of Contents
 |No.896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Solution](./896/Solution.py)|[Note](./896/note.md)|Easy|O(n)|O(1)|Array|
 |No.448|[Find All Numbers Disappear In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](./448/Solution.py)|[Note](./448/note.md)|Easy|O(n)|O(1)|Array|
 |No.821|[Shortest Distance To a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Solution](./821/Solution.py)|[Note](./821/note.md)|Easy|O(n)|O(1)|Array|
-
+|No.001|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](./001/Solution.py)|[Note](./001/note.md)|Easy|O(n)|O(1)|Array|
+|No.167|[Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](./167/Solution.py)|[Note](./167/note.md)|Easy|O(n)|O(1)|Array|
+|No.922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Solution](./922/Solution.py)|[Note](./922/note.md)|Easy|O(n)|O(1)|Array|
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
