@@ -96,10 +96,10 @@ Table of Contents
 |No.867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Solution](./867/Solution.py)|[Note](./867/note.md)|Easy|O(n)|O(1)|Array|
 |No.849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Solution](./849/Solution.py)|[Note](./849/note.md)|Easy|O(n)|O(1)|Array|
 |No.283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Solution](./283/Solution.py)|[Note](./283/note.md)|Easy|O(n)|O(1)|Array|
-|No.015|[3Sum](https://leetcode.com/problems/3sum/](./015/Solution.py)|[Note](./015/note.md)|Easy|O(n)|O(1)|Array|
-|No.209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/](./209/Solution.py)|[Note](./209/note.md)|Easy|O(n)|O(1)|Array|
-|No.560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/](./560/Solution.py)|[Note](./560/note.md)|Easy|O(n)|O(1)|Array|
-|No.349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/submissions/](./349/Solution.py)|[Note](./349/note.md)|Easy|O(n)|O(1)|Array|
+|No.015|[3Sum](https://leetcode.com/problems/3sum/)|[Solution](./015/Solution.py)|[Note](./015/note.md)|Easy|O(n)|O(1)|Array|
+|No.209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./209/Solution.py)|[Note](./209/note.md)|Easy|O(n)|O(1)|Array|
+|No.560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](./560/Solution.py)|[Note](./560/note.md)|Easy|O(n)|O(1)|Array|
+|No.349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/submissions/)|[Solution](./349/Solution.py)|[Note](./349/note.md)|Easy|O(n)|O(1)|Array|
 
 
 ## String
