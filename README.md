@@ -100,6 +100,13 @@ Table of Contents
 |No.209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./209/Solution.py)|[Note](./209/note.md)|Easy|O(n)|O(1)|Array|
 |No.560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](./560/Solution.py)|[Note](./560/note.md)|Easy|O(n)|O(1)|Array|
 |No.349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/submissions/)|[Solution](./349/Solution.py)|[Note](./349/note.md)|Easy|O(n)|O(1)|Array|
+|No.118|[Pascals-triangle](https://leetcode.com/problems/pascals-triangle/submissions/)|[Solution](./118/Solution.py)|[Note](./118/note.md)|Easy|O(n)|O(1)|Array|
+|No.119|[Pascals-triangle2](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](./119/Solution.py)|[Note](./119/note.md)|Easy|O(n)|O(1)|Array|
+|No.860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Solution](./860/Solution.py)|[Note](./860/note.md)|Easy|O(n)|O(1)|Array|
+|No.747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Solution](./747/Solution.py)|[Note](./747/note.md)|Easy|O(n)|O(1)|Array|
+|No.561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Solution](./561/Solution.py)|[Note](./561/note.md)|Easy|O(n)|O(1)|Array|
+|No.485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](./485/Solution.py)|[Note](./485/note.md)|Easy|O(n)|O(1)|Array|
+|No.724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](./724/Solution.py)|[Note](./724/note.md)|Easy|O(n)|O(1)|Array|
 
 
 ## String
