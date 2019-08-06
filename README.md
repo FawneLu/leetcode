@@ -112,6 +112,13 @@ Table of Contents
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
+|No.014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](./014/Solution.py)|[Note](./014/note.md)|Easy|O(n)|O(1)|Array|
+|No.028|[Implement String](https://leetcode.com/problems/implement-strstr/)|[Solution](./028/Solution.py)|[Note](./028/note.md)|Easy|O(n)|O(1)|Array
+|No.067|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](./067/Solution.py)|[Note](./067/note.md)|Easy|O(n)|O(1)|Array|
+|No.125|[Add Binary](https://leetcode.com/problems/valid-palindrome/)|[Solution](./125/Solution.py)|[Note](./125/note.md)|Easy|O(n)|O(1)|Array|
+|No.434|[Add Binary](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Solution](./434/Solution.py)|[Note](./434/note.md)|Easy|O(n)|O(1)|Array|
+|No.459|[Add Binary](https://leetcode.com/problems/repeated-substring-pattern/)|[Solution](./459/Solution.py)|[Note](./459/note.md)|Easy|O(n)|O(1)|Array|
+
 
 
 ## Linked List
