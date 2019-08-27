@@ -112,13 +112,20 @@ Table of Contents
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-|No.014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](./014/Solution.py)|[Note](./014/note.md)|Easy|O(n)|O(1)|Array|
-|No.028|[Implement String](https://leetcode.com/problems/implement-strstr/)|[Solution](./028/Solution.py)|[Note](./028/note.md)|Easy|O(n)|O(1)|Array
-|No.067|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](./067/Solution.py)|[Note](./067/note.md)|Easy|O(n)|O(1)|Array|
-|No.125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](./125/Solution.py)|[Note](./125/note.md)|Easy|O(n)|O(1)|Array|
-|No.434|[Number of Segments In A String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Solution](./434/Solution.py)|[Note](./434/note.md)|Easy|O(n)|O(1)|Array|
-|No.459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Solution](./459/Solution.py)|[Note](./459/note.md)|Easy|O(n)|O(1)|Array|
-
+|No.014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](./014/Solution.py)|[Note](./014/note.md)|Easy|O(n)|O(1)|String|
+|No.028|[Implement String](https://leetcode.com/problems/implement-strstr/)|[Solution](./028/Solution.py)|[Note](./028/note.md)|Easy|O(n)|O(1)|String|
+|No.067|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](./067/Solution.py)|[Note](./067/note.md)|Easy|O(n)|O(1)|String|
+|No.125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](./125/Solution.py)|[Note](./125/note.md)|Easy|O(n)|O(1)|String|
+|No.434|[Number of Segments In A String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Solution](./434/Solution.py)|[Note](./434/note.md)|Easy|O(n)|O(1)|String|
+|No.459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Solution](./459/Solution.py)|[Note](./459/note.md)|Easy|O(n)|O(1)|String|
+|No.443|[String Compression](https://leetcode.com/problems/string-compression/)|[Solution](./443/Solution.py)|[Note](./443/note.md)|Easy|O(n)|O(1)|String|
+|No.680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Solution](./680/Solution.py)|[Note](./680/note.md)|Easy|O(n)|O(1)|String|
+|No.521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[Solution](./521/Solution.py)|[Note](./521/note.md)|Easy|O(n)|O(1)|String|
+|No.771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](./771/Solution.py)|[Note](./771/note.md)|Easy|O(n)|O(1)|String|
+|No.482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Solution](./482/Solution.py)|[Note](./482/note.md)|Easy|O(n)|O(1)|String|
+|No.344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](./344/Solution.py)|[Note](./344/note.md)|Easy|O(n)|O(1)|String|
+|No.412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](./412/Solution.py)|[Note](./412/note.md)|Easy|O(n)|O(1)|String|
+|No.819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Solution](./819/Solution.py)|[Note](./819/note.md)|Easy|O(n)|O(1)|String|
 
 
 ## Linked List
