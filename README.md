@@ -126,7 +126,9 @@ Table of Contents
 |No.344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](./344/Solution.py)|[Note](./344/note.md)|Easy|O(n)|O(1)|String|
 |No.412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](./412/Solution.py)|[Note](./412/note.md)|Easy|O(n)|O(1)|String|
 |No.819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Solution](./819/Solution.py)|[Note](./819/note.md)|Easy|O(n)|O(1)|String|
-
+|No.003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./003/Solution.py)|[Note](./003/note.md)|Easy|O(n)|O(1)|String|
+|No.151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](./151/Solution.py)|[Note](./151/note.md)|Easy|O(n)|O(1)|String|
+|No.557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](./557/Solution.py)|[Note](./557/note.md)|Easy|O(n)|O(1)|String|
 
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
