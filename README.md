@@ -133,6 +133,9 @@ Table of Contents
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
+|No.206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](./206/Solution.py)|[Note](./206/note.md)|Easy|O(n)|O(1)|String|
+|No.024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](./024/Solution.py)|[Note](./024/note.md)|Easy|O(n)|O(1)|String|
+|No.021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./021/Solution.py)|[Note](./021/note.md)|Easy|O(n)|O(1)|String|
 
 
 ## Stack
