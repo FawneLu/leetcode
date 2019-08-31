@@ -133,9 +133,12 @@ Table of Contents
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-|No.206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](./206/Solution.py)|[Note](./206/note.md)|Easy|O(n)|O(1)|String|
-|No.024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](./024/Solution.py)|[Note](./024/note.md)|Easy|O(n)|O(1)|String|
-|No.021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./021/Solution.py)|[Note](./021/note.md)|Easy|O(n)|O(1)|String|
+|No.206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](./206/Solution.py)|[Note](./206/note.md)|Easy|O(n)|O(1)|Linked List|
+|No.024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](./024/Solution.py)|[Note](./024/note.md)|Easy|O(n)|O(1)|Linked List|
+|No.021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./021/Solution.py)|[Note](./021/note.md)|Easy|O(n)|O(1)|Linked List|
+|No.083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Solution](./083/Solution.py)|[Note](./083/note.md)|Easy|O(n)|O(1)|Linked List|
+|No.160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](./160/Solution.py)|[Note](./160/note.md)|Easy|O(n)|O(1)|Linked List|
+|No.203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution](./203/Solution.py)|[Note](./203/note.md)|Easy|O(n)|O(1)|Linked List|
 
 
 ## Stack
