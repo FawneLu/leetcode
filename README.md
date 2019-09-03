@@ -142,6 +142,7 @@ Table of Contents
 |No.237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](./237/Solution.py)|[Note](./237/note.md)|Easy|O(n)|O(1)|Linked List|
 |No.141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](./141/Solution.py)|[Note](./141/note.md)|Easy|O(n)|O(1)|Linked List|
 |No.019|[Remove nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](./019/Solution.py)|[Note](./019/note.md)|Easy|O(n)|O(1)|Linked List|
+|No.142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](./142/Solution.py)|[Note](./142/note.md)|Easy|O(n)|O(1)|Linked List|
 
 ## Stack
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
