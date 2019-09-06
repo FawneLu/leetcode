@@ -143,6 +143,9 @@ Table of Contents
 |No.141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](./141/Solution.py)|[Note](./141/note.md)|Easy|O(n)|O(1)|Linked List|
 |No.019|[Remove nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](./019/Solution.py)|[Note](./019/note.md)|Easy|O(n)|O(1)|Linked List|
 |No.142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](./142/Solution.py)|[Note](./142/note.md)|Easy|O(n)|O(1)|Linked List|
+|No.234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](./234/Solution.py)|[Note](./234/note.md)|Easy|O(n)|O(1)|Linked List|
+|No.023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Solution](./023/Solution.py)|[Note](./023/note.md)|Easy|O(n)|O(1)|Linked List|
+|No.082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Solution](./082/Solution.py)|[Note](./082/note.md)|Easy|O(n)|O(1)|Linked List|
 
 ## Stack
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
