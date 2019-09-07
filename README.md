@@ -146,6 +146,8 @@ Table of Contents
 |No.234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](./234/Solution.py)|[Note](./234/note.md)|Easy|O(n)|O(1)|Linked List|
 |No.023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Solution](./023/Solution.py)|[Note](./023/note.md)|Easy|O(n)|O(1)|Linked List|
 |No.082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Solution](./082/Solution.py)|[Note](./082/note.md)|Easy|O(n)|O(1)|Linked List|
+|No.086|[Partition List](https://leetcode.com/problems/partition-list/)|[Solution](./086/Solution.py)|[Note](./086/note.md)|Easy|O(n)|O(1)|Linked List|
+|No.092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Solution](./092/Solution.py)|[Note](./092/note.md)|Easy|O(n)|O(1)|Linked List|
 
 ## Stack
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
