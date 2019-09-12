@@ -1,0 +1,2 @@
+- stack表示queue
+这道题就是要用stack表示queue。queue和stcak不同的是stack是先进后出，queue是先进先出，queue每次pop list的第一个数就可以了。

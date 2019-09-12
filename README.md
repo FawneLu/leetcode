@@ -148,12 +148,19 @@ Table of Contents
 |No.082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Solution](./082/Solution.py)|[Note](./082/note.md)|Easy|O(n)|O(1)|Linked List|
 |No.086|[Partition List](https://leetcode.com/problems/partition-list/)|[Solution](./086/Solution.py)|[Note](./086/note.md)|Easy|O(n)|O(1)|Linked List|
 |No.092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Solution](./092/Solution.py)|[Note](./092/note.md)|Easy|O(n)|O(1)|Linked List|
-|No.002|[Add Two Numbers](hhttps://leetcode.com/problems/add-two-numbers/)|[Solution](./002/Solution.py)|[Note](./002/note.md)|Easy|O(n)|O(1)|Linked List|
+|No.002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](./002/Solution.py)|[Note](./002/note.md)|Easy|O(n)|O(1)|Linked List|
 
 ## Stack
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution](./020/Solution.py)|[Note](./020/note.md)|Easy|O(n)|O(1)|Stack|
+|No.844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](./844/Solution.py)|[Note](./844/note.md)|Easy|O(n)|O(1)|Stack|
+|No.155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](./155/Solution.py)|[Note](./155/note.md)|Easy|O(n)|O(1)|Stack|
+|No.173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Solution](./173/Solution.py)|[Note](./173/note.md)|Easy|O(n)|O(1)|Stack|
+|No.232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Solution](./232/Solution.py)|[Note](./232/note.md)|Easy|O(n)|O(1)|Stack|
+|No.682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Solution](./682/Solution.py)|[Note](./682/note.md)|Easy|O(n)|O(1)|Stack|
+|No.056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./056/Solution.py)|[Note](./056/note.md)|Easy|O(n)|O(1)|Stack|
+|No.394|[Decode String](https://leetcode.com/problems/decode-string/)|[Solution](./394/Solution.py)|[Note](./394/note.md)|Easy|O(n)|O(1)|Stack|
 
 ## Recursion
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
