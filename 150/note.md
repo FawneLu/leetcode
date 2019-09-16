@@ -1,0 +1,2 @@
+- Pay attention to judging whether the character in the string is a number.  
+We can use .digit to determine whether the character is made of number but due to the possibility of having a negative number, we can create a list of operators first and then judge whetehr the character is in the operator.

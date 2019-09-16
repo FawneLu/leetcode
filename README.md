@@ -161,6 +161,10 @@ Table of Contents
 |No.682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Solution](./682/Solution.py)|[Note](./682/note.md)|Easy|O(n)|O(1)|Stack|
 |No.056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./056/Solution.py)|[Note](./056/note.md)|Easy|O(n)|O(1)|Stack|
 |No.394|[Decode String](https://leetcode.com/problems/decode-string/)|[Solution](./394/Solution.py)|[Note](./394/note.md)|Easy|O(n)|O(1)|Stack|
+|No.921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Solution](./921/Solution.py)|[Note](./921/note.md)|Easy|O(n)|O(1)|Stack|
+|No.946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Solution](./946/Solution.py)|[Note](./946/note.md)|Easy|O(n)|O(1)|Stack|
+|No.150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution](./150/Solution.py)|[Note](./150/note.md)|Easy|O(n)|O(1)|Stack|
+|No.225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Solution](./225/Solution.py)|[Note](./225/note.md)|Easy|O(n)|O(1)|Stack|
 
 ## Recursion
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
