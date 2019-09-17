@@ -176,6 +176,9 @@ Table of Contents
 ## Queue
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
+|No.127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Solution](./127/Solution.py)|[Note](./127/note.md)|Easy|O(n)|O(1)|Queue|
+|No.622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Solution](./622/Solution.py)|[Note](./622/note.md)|Easy|O(n)|O(1)|Queue|
+|No.641|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[Solution](./641/Solution.py)|[Note](./641/note.md)|Easy|O(n)|O(1)|Queue|
 
 
 
