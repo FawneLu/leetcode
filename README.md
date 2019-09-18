@@ -191,7 +191,8 @@ Table of Contents
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Solution](./202/Solution.py)|[Note](./202/note.md)|Easy|O(n)|O(1)|Hash Table|
+|No.706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Solution](./706/Solution.py)|[Note](./706/note.md)|Easy|O(n)|O(1)|Hash Table|
 
 
 ## Sort
