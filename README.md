@@ -193,7 +193,7 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Solution](./202/Solution.py)|[Note](./202/note.md)|Easy|O(n)|O(1)|Hash Table|
 |No.706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Solution](./706/Solution.py)|[Note](./706/note.md)|Easy|O(n)|O(1)|Hash Table|
-
+|No.380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](./380/Solution.py)|[Note](./380/note.md)|Easy|O(n)|O(1)|Hash Table|
 
 ## Sort
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
