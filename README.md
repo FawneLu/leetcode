@@ -195,7 +195,8 @@ Table of Contents
 |No.706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Solution](./706/Solution.py)|[Note](./706/note.md)|Easy|O(n)|O(1)|Hash Table|
 |No.380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](./380/Solution.py)|[Note](./380/note.md)|Easy|O(n)|O(1)|Hash Table|
 |No.981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Solution](./981/Solution.py)|[Note](./981/note.md)|Easy|O(n)|O(1)|Hash Table|
-
+|No.811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Solution](./811/Solution.py)|[Note](./811/note.md)|Easy|O(n)|O(1)|Hash Table|
+|No.692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./692/Solution.py)|[Note](./692/note.md)|Easy|O(n)|O(1)|Hash Table|
 
 ## Sort
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
