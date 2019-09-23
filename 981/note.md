@@ -1,0 +1,3 @@
+-两个要点
+这道题有两个需要注意的地方。一个是我们用了defaultdict，如果带的函数是int的话初始值为0，zhei样可以减少我们的代码量。  
+第二点需要注意的地方是，这道题用了binary search的思想，binary search的所有可能请参照张老师的blog（自己实现的代码在leetcode的文件夹下面）。
