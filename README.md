@@ -185,7 +185,8 @@ Table of Contents
 ## Binary Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](./226/Solution.py)|[Note](./226/note.md)|Easy|O(n)|O(1)|Binary Tree|
+|No.543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Solution](./543/Solution.py)|[Note](./543/note.md)|Easy|O(n)|O(1)|Binary Tree|
 
 
 ## Hash Table
