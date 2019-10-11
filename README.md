@@ -186,8 +186,10 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](./226/Solution.py)|[Note](./226/note.md)|Easy|O(n)|O(1)|Binary Tree|
-|No.543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Solution](./543/Solution.py)|[Note](./543/note.md)|Easy|O(n)|O(1)|Binary Tree|
-
+|No.543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Solution](./543/Solution.py)|[Note](./543/note.md)|Easy|O(n)|O(1)|Binary Tree
+|No.637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Solution](./637/Solution.py)|[Note](./637/note.md)|Easy|O(n)|O(1)|Binary Tree|
+|No.965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Solution](./965/Solution.py)|[Note](./965/note.md)|Easy|O(n)|O(1)|Binary Tree|
+|No.100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Solution](./100/Solution.py)|[Note](./100/note.md)|Easy|O(n)|O(1)|Binary Tree|
 
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
