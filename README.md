@@ -193,6 +193,7 @@ Table of Contents
 |No.100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Solution](./100/Solution.py)|[Note](./100/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Solution](./897/Solution.py)|[Note](./897/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Solution](./112/Solution.py)|[Note](./112/note.md)|Easy|O(n)|O(1)|Binary Tree|
+|No.617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Solution](./617/Solution.py)|[Note](./617/note.md)|Easy|O(n)|O(1)|Binary Tree|
 
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
