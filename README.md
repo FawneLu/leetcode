@@ -174,6 +174,8 @@ Table of Contents
 |No.404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Solution](./404/Solution.py)|[Note](./404/note.md)|Easy|O(n)|O(1)|Recursion|
 |No.101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Solution](./101/Solution.py)|[Note](./101/note.md)|Easy|O(n)|O(1)|Recursion|
 |No.872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Solution](./872/Solution.py)|[Note](./872/note.md)|Easy|O(n)|O(1)|Recursion|
+|No.110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Solution](./110/Solution.py)|[Note](./110/note.md)|Easy|O(n)|O(1)|Recursion|
+|No.669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Note](./669/note.md)|Easy|O(n)|O(1)|Recursion|
 
 
 ## Queue
