@@ -169,6 +169,8 @@ Table of Contents
 ## Recursion
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
+|No.104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](./104/Solution.py)|[Note](./104/note.md)|Easy|O(n)|O(1)|Recursion|
+|No.111|[Minimum Depth of Binary Tree](hhttps://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Solution](./111/Solution.py)|[Note](./111/note.md)|Easy|O(n)|O(1)|Recursion|
 
 
 
