@@ -170,9 +170,10 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](./104/Solution.py)|[Note](./104/note.md)|Easy|O(n)|O(1)|Recursion|
-|No.111|[Minimum Depth of Binary Tree](hhttps://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Solution](./111/Solution.py)|[Note](./111/note.md)|Easy|O(n)|O(1)|Recursion|
-
-
+|No.111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Solution](./111/Solution.py)|[Note](./111/note.md)|Easy|O(n)|O(1)|Recursion|
+|No.404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Solution](./404/Solution.py)|[Note](./404/note.md)|Easy|O(n)|O(1)|Recursion|
+|No.101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Solution](./101/Solution.py)|[Note](./101/note.md)|Easy|O(n)|O(1)|Recursion|
+|No.872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Solution](./872/Solution.py)|[Note](./872/note.md)|Easy|O(n)|O(1)|Recursion|
 
 
 ## Queue
