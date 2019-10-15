@@ -175,8 +175,8 @@ Table of Contents
 |No.101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Solution](./101/Solution.py)|[Note](./101/note.md)|Easy|O(n)|O(1)|Recursion|
 |No.872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Solution](./872/Solution.py)|[Note](./872/note.md)|Easy|O(n)|O(1)|Recursion|
 |No.110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Solution](./110/Solution.py)|[Note](./110/note.md)|Easy|O(n)|O(1)|Recursion|
-|No.669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Note](./669/note.md)|Easy|O(n)|O(1)|Recursion|
-
+|No.669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Solution](./669/Solution.py)|[Note](./669/note.md)|Easy|O(n)|O(1)|Recursion|
+|No.671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Solution](./671/Solution.py)|[Note](./671/note.md)|Easy|O(n)|O(1)|Recursion|
 
 ## Queue
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
