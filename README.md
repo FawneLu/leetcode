@@ -178,6 +178,8 @@ Table of Contents
 |No.669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Solution](./669/Solution.py)|[Note](./669/note.md)|Easy|O(n)|O(1)|Recursion|
 |No.671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Solution](./671/Solution.py)|[Note](./671/note.md)|Easy|O(n)|O(1)|Recursion|
 |No.894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[Solution](./894/Solution.py)|[Note](./894/note.md)|Easy|O(n)|O(1)|Recursion|
+|No.544|[Output Contest Matches](https://leetcode.com/problems/output-contest-matches/)|[Solution](./544/Solution.py)|[Note](./544/note.md)|Easy|O(n)|O(1)|Recursion|
+|No.247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|[Solution](./247/Solution.py)|[Note](./247/note.md)|Easy|O(n)|O(1)|Recursion|
 
 
 ## Queue
