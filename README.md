@@ -177,6 +177,8 @@ Table of Contents
 |No.110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Solution](./110/Solution.py)|[Note](./110/note.md)|Easy|O(n)|O(1)|Recursion|
 |No.669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Solution](./669/Solution.py)|[Note](./669/note.md)|Easy|O(n)|O(1)|Recursion|
 |No.671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Solution](./671/Solution.py)|[Note](./671/note.md)|Easy|O(n)|O(1)|Recursion|
+|No.894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[Solution](./894/Solution.py)|[Note](./894/note.md)|Easy|O(n)|O(1)|Recursion|
+
 
 ## Queue
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -185,7 +187,7 @@ Table of Contents
 |No.622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Solution](./622/Solution.py)|[Note](./622/note.md)|Easy|O(n)|O(1)|Queue|
 |No.641|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[Solution](./641/Solution.py)|[Note](./641/note.md)|Easy|O(n)|O(1)|Queue|
 |No.671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Solution](./671/Solution.py)|[Note](./671/note.md)|Easy|O(n)|O(1)|Queue|
-
+|No.1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Solution](./1137/Solution.py)|[Note](./1137/note.md)|Easy|O(n)|O(1)|Queue|
 
 
 ## Binary Tree
