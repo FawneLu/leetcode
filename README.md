@@ -213,6 +213,10 @@ Table of Contents
 |No.144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](./144/Solution.py)|[Note](./144/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Solution](./145/Solution.py)|[Note](./145/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Solution](./102/Solution.py)|[Note](./102/note.md)|Easy|O(n)|O(1)|Binary Tree|
+|No.107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Solution](./107/Solution.py)|[Note](./107/note.md)|Easy|O(n)|O(1)|Binary Tree|
+|No.250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[Solution](./250/Solution.py)|[Note](./250/note.md)|Easy|O(n)|O(1)|Binary Tree|
+|No.106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Solution](./106/Solution.py)|[Note](./106/note.md)|Easy|O(n)|O(1)|Binary Tree|
+|No.1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Solution](./1008/Solution.py)|[Note](./1008/note.md)|Easy|O(n)|O(1)|Binary Tree|
 
 
 ## Hash Table
