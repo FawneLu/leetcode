@@ -208,6 +208,8 @@ Table of Contents
 |No.606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Solution](./606/Solution.py)|[Note](./606/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Solution](./572/Solution.py)|[Note](./572/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Solution](./563/Solution.py)|[Note](./563/note.md)|Easy|O(n)|O(1)|Binary Tree|
+|No.094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](./094/Solution.py)|[Note](./094/note.md)|Easy|O(n)|O(1)|Binary Tree|
+|No.257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Solution](./257/Solution.py)|[Note](./257/note.md)|Easy|O(n)|O(1)|Binary Tree|
 
 
 ## Hash Table
