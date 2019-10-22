@@ -210,6 +210,8 @@ Table of Contents
 |No.563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Solution](./563/Solution.py)|[Note](./563/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](./094/Solution.py)|[Note](./094/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Solution](./257/Solution.py)|[Note](./257/note.md)|Easy|O(n)|O(1)|Binary Tree|
+|No.144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](./144/Solution.py)|[Note](./144/note.md)|Easy|O(n)|O(1)|Binary Tree|
+|No.145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Solution](./145/Solution.py)|[Note](./145/note.md)|Easy|O(n)|O(1)|Binary Tree|
 
 
 ## Hash Table
