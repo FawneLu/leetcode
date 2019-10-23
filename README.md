@@ -219,6 +219,7 @@ Table of Contents
 |No.1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Solution](./1008/Solution.py)|[Note](./1008/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Solution](./236/Solution.py)|[Note](./236/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Solution](./437/Solution.py)|[Note](./437/note.md)|Easy|O(n)|O(1)|Binary Tree|
+|No.1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Solution](./1022/Solution.py)|[Note](./1022/note.md)|Easy|O(n)|O(1)|Binary Tree|
 
 
 ## Hash Table
