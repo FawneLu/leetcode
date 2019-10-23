@@ -217,7 +217,7 @@ Table of Contents
 |No.250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[Solution](./250/Solution.py)|[Note](./250/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Solution](./106/Solution.py)|[Note](./106/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Solution](./1008/Solution.py)|[Note](./1008/note.md)|Easy|O(n)|O(1)|Binary Tree|
-
+|No.236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Solution](./236/Solution.py)|[Note](./236/note.md)|Easy|O(n)|O(1)|Binary Tree|
 
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
