@@ -241,7 +241,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Solution](./179/Solution.py)|[Note](./179/note.md)|Easy|O(n)|O(1)|Sort|
-|No.347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./347/Solution.py)|[Note](./347/note.md)|Easy|O(n)|O(1)|Sort|
+|No.347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-element/)|[Solution](./347/Solution.py)|[Note](./347/note.md)|Easy|O(n)|O(1)|Sort|
 
 
 
