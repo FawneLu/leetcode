@@ -259,6 +259,7 @@ Table of Contents
 ## Binary Search Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
+|No.450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Solution](./450/Solution.py)|[Note](./450/note.md)|Easy|O(n)|O(1)|Binary Search Tree|
 
 
 
