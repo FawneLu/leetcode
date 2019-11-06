@@ -1,7 +1,6 @@
 LeetCode solutions in Python3.
 ========
 
-women
 Table of Contents
 =================
 
