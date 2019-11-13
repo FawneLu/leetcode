@@ -248,7 +248,8 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](./215/Solution.py)|[Note](./215/note.md)|Easy|O(n)|O(1)|Heap|
-
+|No.264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Solution](./264/Solution.py)|[Note](./264/note.md)|Easy|O(n)|O(1)|Heap|
+|No.937|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](./937/Solution.py)|[Note](./937/note.md)|Easy|O(n)|O(1)|Heap|
 
 
 ## Binary Search
