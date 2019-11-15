@@ -265,6 +265,13 @@ Table of Contents
 
 
 
+## Divide and Conquer
+|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
+|---|-----|--------|----|----------|----|-----|---|
+|No.932|[Beautiful Array](https://leetcode.com/problems/beautiful-array/)|[Solution](./932/Solution.py)|[Note](./932/note.md)|Easy|O(n)|O(1)|Divide and Conquer|
+
+
+
 ## N-ary Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
