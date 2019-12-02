@@ -300,3 +300,10 @@ Table of Contents
 ## Dynamic Programming
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
+
+
+
+## Synthesized
+|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
+|---|-----|--------|----|----------|----|-----|---|
+|No.007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/)|[Solution](./007/Solution.py)|[Note](./007/note.md)|Easy|O(n)|O(1)||
