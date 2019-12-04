@@ -306,4 +306,5 @@ Table of Contents
 ## Synthesized
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-|No.007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/)|[Solution](./007/Solution.py)|[Note](./007/note.md)|Easy|O(n)|O(1)||
+|No.007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/)|[Solution](./007/Solution.py)|[Note](./007/note.md)|Easy|O(n)|O(1
+|No.009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Solution](./009/Solution.py)|[Note](./009/note.md)|Easy|O(n)|O(1)||
