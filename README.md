@@ -287,6 +287,7 @@ Table of Contents
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
+|No.997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Solution](./997/Solution.py)|[Note](./997/note.md)|Easy|O(n)|O(1)||
 
 
 
