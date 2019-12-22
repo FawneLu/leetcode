@@ -314,3 +314,4 @@ Table of Contents
 |No.058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Solution](./058/Solution.py)|[Note](./058/note.md)|Easy|O(n)|O(1)||
 |No.069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](./069/Solution.py)|[Note](./069/note.md)|Easy|O(n)|O(1)||
 |No.070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./070/Solution.py)|[Note](./070/note.md)|Easy|O(n)|O(1)||
+|No.038|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution](./038/Solution.py)|[Note](./038/note.md)|Easy|O(n)|O(1)||
