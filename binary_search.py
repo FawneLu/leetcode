@@ -82,7 +82,7 @@ def binarySearch6(array, key, low, high):
 	if array[mid]>key:
 		return binarySearch6(array,key,low,mid-1)
 	else:
-		if mid==len(arrau)-1 or array[mid+1]>key:
+		if mid==len(array)-1 or array[mid+1]>key:
 			return mid
 		else:
 			return binarySearch6(array,key,mid+1,high)
