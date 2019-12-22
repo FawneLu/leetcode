@@ -300,6 +300,7 @@ Table of Contents
 ## Dynamic Programming
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
+|No.070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./070/Solution.py)|[Note](./070/note.md)|Easy|O(n)|O(1)||
 
 
 
@@ -315,3 +316,4 @@ Table of Contents
 |No.069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](./069/Solution.py)|[Note](./069/note.md)|Easy|O(n)|O(1)||
 |No.070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./070/Solution.py)|[Note](./070/note.md)|Easy|O(n)|O(1)||
 |No.038|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution](./038/Solution.py)|[Note](./038/note.md)|Easy|O(n)|O(1)||
+|No.088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./088/Solution.py)|[Note](./088/note.md)|Easy|O(n)|O(1)||
