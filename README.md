@@ -310,3 +310,5 @@ Table of Contents
 |No.009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Solution](./009/Solution.py)|[Note](./009/note.md)|Easy|O(n)|O(1)||
 |No.013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](./013/Solution.py)|[Note](./013/note.md)|Easy|O(n)|O(1)||
 |No.035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./035/Solution.py)|[Note](./035/note.md)|Easy|O(n)|O(1)||
+|No.053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](./053/Solution.py)|[Note](./053/note.md)|Easy|O(n)|O(1)||
+|No.058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Solution](./058/Solution.py)|[Note](./058/note.md)|Easy|O(n)|O(1)||
