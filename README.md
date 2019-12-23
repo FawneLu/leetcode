@@ -289,6 +289,7 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Solution](./997/Solution.py)|[Note](./997/note.md)|Easy|O(n)|O(1)||
 |No.1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)|[Solution](./1042/Solution.py)|[Note](./1042/note.md)|Easy|O(n)|O(1)||
+|No.778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[Solution](./778/Solution.py)|[Note](./778/note.md)|Easy|O(n)|O(1)||
 
 
 ## Backtracking
