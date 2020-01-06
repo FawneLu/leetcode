@@ -306,11 +306,10 @@ Table of Contents
 |No.070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./070/Solution.py)|[Note](./070/note.md)|Easy|O(n)|O(1)||
 
 
-
 ## Synthesized
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-|No.007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/)|[Solution](./007/Solution.py)|[Note](./007/note.md)|Easy|O(n)|O(1
+|No.007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/)|[Solution](./007/Solution.py)|[Note](./007/note.md)|Easy|O(n)|O(1)||
 |No.009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Solution](./009/Solution.py)|[Note](./009/note.md)|Easy|O(n)|O(1)||
 |No.013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](./013/Solution.py)|[Note](./013/note.md)|Easy|O(n)|O(1)||
 |No.035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./035/Solution.py)|[Note](./035/note.md)|Easy|O(n)|O(1)||
@@ -320,3 +319,8 @@ Table of Contents
 |No.070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./070/Solution.py)|[Note](./070/note.md)|Easy|O(n)|O(1)||
 |No.038|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution](./038/Solution.py)|[Note](./038/note.md)|Easy|O(n)|O(1)||
 |No.088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./088/Solution.py)|[Note](./088/note.md)|Easy|O(n)|O(1)||
+
+## Google
+|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
+|---|-----|--------|----|----------|----|-----|---|
+|No.737|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/)|[Solution](./737/Solution.py)|[Note](./737/note.md)|Medium|O(n)|O(1)||
