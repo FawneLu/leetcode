@@ -324,3 +324,4 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.737|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/)|[Solution](./737/Solution.py)|[Note](./737/note.md)|Medium|O(n)|O(1)||
+|No.753|[Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)|[Solution](./753/Solution.py)|[Note](./753/note.md)|Hard|O(n)|O(1)||
