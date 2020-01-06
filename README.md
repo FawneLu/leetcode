@@ -327,3 +327,4 @@ Table of Contents
 |No.753|[Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)|[Solution](./753/Solution.py)|[Note](./753/note.md)|Hard|O(n)|O(1)||
 |No.681|[Next Closest Time](https://leetcode.com/problems/next-closest-time/)|[Solution](./681/Solution.py)|[Note](./681/note.md)|Medium|O(n)|O(1)||
 |No.124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](./124/Solution.py)|[Note](./124/note.md)|Hard|O(n)|O(1)||
+|No.299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/submissions/)|[Solution](./299/Solution.py)|[Note](./299/note.md)|Easy|O(n)|O(1)||
