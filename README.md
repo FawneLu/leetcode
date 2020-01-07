@@ -330,3 +330,4 @@ Table of Contents
 |No.299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/submissions/)|[Solution](./299/Solution.py)|[Note](./299/note.md)|Easy|O(n)|O(1)||
 |No.004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](./004/Solution.py)|[Note](./004/note.md)|Hard|O(n)|O(1)||
 |No.731|[My Calendar II](https://leetcode.com/problems/my-calendar-ii/)|[Solution](./731/Solution.py)|[Note](./731/note.md)|Medium|O(n)|O(1)||
+|No.1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Solution](./1007/Solution.py)|[Note](./1007/note.md)|Medium|O(n)|O(1)||
