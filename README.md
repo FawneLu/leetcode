@@ -334,3 +334,4 @@ Table of Contents
 |No.1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Solution](./1007/Solution.py)|[Note](./1007/note.md)|Medium|O(n)|O(1)||
 |No.1153|[String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/)|[Solution](./1153/Solution.py)|[Note](./1153/note.md)|Hard|O(n)|O(1)||
 |No.410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[Solution](./410/Solution.py)|[Note](./410/note.md)|Hard|O(n)|O(1)||
+|No.809|[Expressive Words](https://leetcode.com/problems/expressive-words/)|[Solution](./809/Solution.py)|[Note](./809/note.md)|Hard|O(n)|O(1)||
