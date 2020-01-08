@@ -338,3 +338,4 @@ Table of Contents
 |No.1056|[Confusing Number](https://leetcode.com/problems/confusing-number/)|[Solution](./1056/Solution.py)|[Note](./1056/note.md)|Easy|O(n)|O(1)||
 |No.1088|[Confusing Number II](https://leetcode.com/problems/confusing-number-ii/)|[Solution](./1088/Solution.py)|[Note](./1088/note.md)|Hard|O(n)|O(1)||
 |No.1057|[Campus Bikes](https://leetcode.com/problems/campus-bikes/)|[Solution](./1057/Solution.py)|[Note](./1057/note.md)|Hard|O(n)|O(1)||
+|No.1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[Solution](./1170/Solution.py)|[Note](./1170/note.md)|Easy|O(n)|O(1)||
