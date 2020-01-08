@@ -336,3 +336,4 @@ Table of Contents
 |No.410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[Solution](./410/Solution.py)|[Note](./410/note.md)|Hard|O(n)|O(1)||
 |No.809|[Expressive Words](https://leetcode.com/problems/expressive-words/)|[Solution](./809/Solution.py)|[Note](./809/note.md)|Hard|O(n)|O(1)||
 |No.1056|[Confusing Number](https://leetcode.com/problems/confusing-number/)|[Solution](./1056/Solution.py)|[Note](./1056/note.md)|Hard|O(n)|O(1)||
+|No.1088|[Confusing Number II](https://leetcode.com/problems/confusing-number-ii/)|[Solution](./1088/Solution.py)|[Note](./1088/note.md)|Hard|O(n)|O(1)||
