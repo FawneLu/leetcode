@@ -347,3 +347,4 @@ Table of Contents
 |No.359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Solution](./359/Solution.py)|[Note](./359/note.md)|Easy|O(n)|O(1)||
 |No.727|[Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)|[Solution](./727/Solution.py)|[Note](./727/note.md)|Hard|O(n)|O(1)||
 |No.1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Solution](./1110/Solution.py)|[Note](./1110/note.md)|Medium|O(n)|O(1)||
+|No.801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)|[Solution](./801/Solution.py)|[Note](./801/note.md)|Medium|O(n)|O(1)||
