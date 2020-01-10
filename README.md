@@ -345,3 +345,4 @@ Table of Contents
 |No.1055|[Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)|[Solution](./1055/Solution.py)|[Note](./1055/note.md)|Medium|O(n)|O(1)||
 |No.659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Solution](./659/Solution.py)|[Note](./659/note.md)|Medium|O(n)|O(1)||
 |No.359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Solution](./359/Solution.py)|[Note](./359/note.md)|Easy|O(n)|O(1)||
+|No.727|[Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)|[Solution](./727/Solution.py)|[Note](./727/note.md)|Hard|O(n)|O(1)||
