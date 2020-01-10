@@ -348,3 +348,4 @@ Table of Contents
 |No.727|[Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)|[Solution](./727/Solution.py)|[Note](./727/note.md)|Hard|O(n)|O(1)||
 |No.1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Solution](./1110/Solution.py)|[Note](./1110/note.md)|Medium|O(n)|O(1)||
 |No.801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)|[Solution](./801/Solution.py)|[Note](./801/note.md)|Medium|O(n)|O(1)||
+|No.315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Solution](./315/Solution.py)|[Note](./315/note.md)|Hard|O(n)|O(1)||
