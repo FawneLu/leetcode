@@ -341,6 +341,7 @@ Table of Contents
 |No.1057|[Campus Bikes](https://leetcode.com/problems/campus-bikes/)|[Solution](./1057/Solution.py)|[Note](./1057/note.md)|Hard|O(n)|O(1)||
 |No.1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[Solution](./1170/Solution.py)|[Note](./1170/note.md)|Easy|O(n)|O(1)||
 |No.465|[Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)|[Solution](./465/Solution.py)|[Note](./465/note.md)|Hard|O(n)|O(1)||
-|No.222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/solution/)|[Solution](./222/Solution.py)|[Note](./222/note.md)|Mediumcd|O(n)|O(1)||
-|No.1055|[Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)|[Solution](./1055/Solution.py)|[Note](./1055/note.md)|Mediumcd|O(n)|O(1)||
-|No.659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Solution](./659/Solution.py)|[Note](./659/note.md)|Mediumcd|O(n)|O(1)||
+|No.222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/solution/)|[Solution](./222/Solution.py)|[Note](./222/note.md)|Medium|O(n)|O(1)||
+|No.1055|[Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)|[Solution](./1055/Solution.py)|[Note](./1055/note.md)|Medium|O(n)|O(1)||
+|No.659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Solution](./659/Solution.py)|[Note](./659/note.md)|Medium|O(n)|O(1)||
+|No.359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Solution](./359/Solution.py)|[Note](./359/note.md)|Easy|O(n)|O(1)||
