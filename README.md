@@ -351,3 +351,4 @@ Table of Contents
 |No.801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)|[Solution](./801/Solution.py)|[Note](./801/note.md)|Medium|O(n)|O(1)||
 |No.315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Solution](./315/Solution.py)|[Note](./315/note.md)|Hard|O(n)|O(1)||
 |No.1231|[Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)|[Solution](./1231/Solution.py)|[Note](./1231/note.md)|Hard|O(n)|O(1)||
+|No.552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[Solution](./552/Solution.py)|[Note](./552/note.md)|Hard|O(n)|O(1)||
