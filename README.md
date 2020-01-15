@@ -354,3 +354,4 @@ Table of Contents
 |No.552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[Solution](./552/Solution.py)|[Note](./552/note.md)|Hard|O(n)|O(1)||
 |No.430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Solution](./430/Solution.py)|[Note](./430/note.md)|Medium|O(n)|O(1)||
 |No.939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)|[Solution](./939/Solution.py)|[Note](./939/note.md)|Medium|O(n)|O(1)||
+|No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./743/Solution.py)|[Note](./743/note.md)|Medium|O(n)|O(1)||
