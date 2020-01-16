@@ -359,3 +359,4 @@ Table of Contents
 |No.1096|[Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/)|[Solution](./1096/Solution.py)|[Note](./1096/note.md)|Hard|O(n)|O(1)||
 |No.1087|[Brace Expansion](https://leetcode.com/problems/brace-expansion/)|[Solution](./1087/Solution.py)|[Note](./1087/note.md)|Medium|O(n)|O(1)||
 |No.1066|[Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/)|[Solution](./1066/Solution.py)|[Note](./1066/note.md)|Medium|O(n)|O(1)||
+|No.271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[Solution](./271/Solution.py)|[Note](./271/note.md)|Medium|O(n)|O(1)||
