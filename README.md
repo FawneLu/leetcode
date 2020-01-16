@@ -225,6 +225,7 @@ Table of Contents
 |No.654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Solution](./654/Solution.py)|[Note](./654/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](./701/Solution.py)|[Note](./701/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Solution](./814/Solution.py)|[Note](./814/note.md)|Easy|O(n)|O(1)|Binary Tree|
+|No.545|[Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/)|[Solution](./545/Solution.py)|[Note](./545/note.md)|Medium|O(n)|O(1)||
 
 
 ## Hash Table
