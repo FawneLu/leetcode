@@ -357,3 +357,4 @@ Table of Contents
 |No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./743/Solution.py)|[Note](./743/note.md)|Medium|O(n)|O(1)||
 |No.889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[Solution](./889/Solution.py)|[Note](./889/note.md)|Medium|O(n)|O(1)||
 |No.1096|[Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/)|[Solution](./1096/Solution.py)|[Note](./1096/note.md)|Hard|O(n)|O(1)||
+|No.1087|[Brace Expansion](https://leetcode.com/problems/brace-expansion/)|[Solution](./1087/Solution.py)|[Note](./1087/note.md)|Hard|O(n)|O(1)||
