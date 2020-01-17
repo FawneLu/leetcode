@@ -372,3 +372,4 @@ Table of Contents
 |No.1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Solution](./1032/Solution.py)|[Note](./1032/note.md)|Hard|O(n)|O(1)||
 |No.489|[Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/)|[Solution](./489/Solution.py)|[Note](./1032/note.md)|Hard|O(n)|O(1
 |No.1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Solution](./1219/Solution.py)|[Note](./1032/note.md)|Medium|O(n)|O(1)||
+|No.774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)|[Solution](./774/Solution.py)|[Note](./774/note.md)|Hard|O(n)|O(1)||
