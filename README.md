@@ -368,3 +368,4 @@ Table of Contents
 |No.456|[132 Pattern](https://leetcode.com/problems/132-pattern/)|[Solution](./456/Solution.py)|[Note](./456/note.md)|Medium|O(n)|O(1)||
 |No.1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[Solution](./1011/Solution.py)|[Note](./1011/note.md)|Medium|O(n)|O(1)||
 |No.752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Solution](./752/Solution.py)|[Note](./752/note.md)|Medium|O(n)|O(1)||
+|No.846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[Solution](./846/Solution.py)|[Note](./846/note.md)|Medium|O(n)|O(1)||
