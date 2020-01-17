@@ -370,3 +370,4 @@ Table of Contents
 |No.752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Solution](./752/Solution.py)|[Note](./752/note.md)|Medium|O(n)|O(1)||
 |No.846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[Solution](./846/Solution.py)|[Note](./846/note.md)|Medium|O(n)|O(1)||
 |No.1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Solution](./1032/Solution.py)|[Note](./1032/note.md)|Hard|O(n)|O(1)||
+|No.489|[Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/)|[Solution](./489/Solution.py)|[Note](./1032/note.md)|Hard|O(n)|O(1)||
