@@ -309,6 +309,7 @@ Table of Contents
 |No.070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./070/Solution.py)|[Note](./070/note.md)|Easy|O(n)|O(1)||
 |No.139|[Word Break](https://leetcode.com/problems/word-break/)|[Solution](./139/Solution.py)|[Note](./139/note.md)|Medium|O(n)|O(1)||
 |No.472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Solution](./472/Solution.py)|[Note](./472/note.md)|Hard|O(n)|O(1)||
+|No.062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./062/Solution.py)|[Note](./062/note.md)|Medium|O(n)|O(1)||
 
 ## Synthesized
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
