@@ -374,3 +374,4 @@ Table of Contents
 |No.1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Solution](./1219/Solution.py)|[Note](./1032/note.md)|Medium|O(n)|O(1)||
 |No.774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)|[Solution](./774/Solution.py)|[Note](./774/note.md)|Hard|O(n)|O(1)||
 |No.221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Solution](./221/Solution.py)|[Note](./221/note.md)|Medium|O(n)|O(1)||
+|No.1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Solution](./1048/Solution.py)|[Note](./1048/note.md)|Medium|O(n)|O(1)||
