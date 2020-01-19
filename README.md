@@ -379,4 +379,6 @@ Table of Contents
 |No.340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Solution](./340/Solution.py)|[Note](./340/note.md)|Hard|O(n)|O(1)||
 |No.329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Solution](./329/Solution.py)|[Note](./329/note.md)|Hard|O(n)|O(1)||
 |No.1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|[Solution](./1146/Solution.py)|[Note](./1146/note.md)|Hard|O(n)|O(1)||
-|No.1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)|[Solution](./1197/Solution.py)|[Note](./1197/note.md)|Hard|O(n)|O(1)||
+|No.1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)|[Solution](./1197/Solution.py)|[Note](./1197/note.md)|Medium|O(n)|O(1)||
+|No.947|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)|[Solution](./947/Solution.py)|[Note](./947/note.md)|Medium|O(n)|O(1)||
+|No.951|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)|[Solution](./951/Solution.py)|[Note](./951/note.md)|Medium|O(n)|O(1)||
