@@ -375,4 +375,5 @@ Table of Contents
 |No.774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)|[Solution](./774/Solution.py)|[Note](./774/note.md)|Hard|O(n)|O(1)||
 |No.221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Solution](./221/Solution.py)|[Note](./221/note.md)|Medium|O(n)|O(1)||
 |No.1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Solution](./1048/Solution.py)|[Note](./1048/note.md)|Medium|O(n)|O(1)||
-|No.068|[Text Justification](https://leetcode.com/problems/text-justification/)|[Solution](./068/Solution.py)|[Note](./068/note.md)|Medium|O(n)|O(1)||
+|No.068|[Text Justification](https://leetcode.com/problems/text-justification/)|[Solution](./068/Solution.py)|[Note](./068/note.md)|Hard|O(n)|O(1)||
+|No.340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Solution](./340/Solution.py)|[Note](./340/note.md)|Hard|O(n)|O(1)||
