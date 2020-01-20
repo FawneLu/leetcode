@@ -382,4 +382,9 @@ Table of Contents
 |No.1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)|[Solution](./1197/Solution.py)|[Note](./1197/note.md)|Medium|O(n)|O(1)||
 |No.947|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)|[Solution](./947/Solution.py)|[Note](./947/note.md)|Medium|O(n)|O(1)||
 |No.951|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)|[Solution](./951/Solution.py)|[Note](./951/note.md)|Medium|O(n)|O(1)||
-|No.1168|[Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/)|[Solution](./1168/Solution.py)|[Note](./1168/note.md)|Hard|O(n)|O(1)||
+|No.1168|[Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/)|[Solution](./1168/Solution.py)|[Note](./1168/note.md)|Hard|O(n)|O(1)||  
+
+## Amazon
+|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
+|---|-----|--------|----|----------|----|-----|---|
+|No.005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./005/Solution.py)|[Note](./005/note.md)|Medium|O(n)|O(1)||
