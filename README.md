@@ -389,3 +389,4 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./005/Solution.py)|[Note](./005/note.md)|Medium|O(n)|O(1)||
 |No.042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution](./042/Solution.py)|[Note](./042/note.md)|Hard|O(n)|O(1)||
+|No.049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./049/Solution.py)|[Note](./049/note.md)|Medium|O(n)|O(1)||
