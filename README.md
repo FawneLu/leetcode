@@ -391,3 +391,4 @@ Table of Contents
 |No.042|[Recover Binary Search Tree](https://leetcode.com/problems/trapping-rain-water/)|[Solution](./042/Solution.py)|[Note](./042/note.md)|Hard|O(n)|O(1)||
 |No.049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./049/Solution.py)|[Note](./049/note.md)|Medium|O(n)|O(1
 |No.099|[Group Anagrams](https://leetcode.com/problems/recover-binary-search-tree/submissions/)|[Solution](./099/Solution.py)|[Note](./099/note.md)|Medium|O(n)|O(1)||
+|No.103|[Group Anagrams](https://leetcode.com/problems/recover-binary-search-tree/submissions/)|[Solution](./103/Solution.py)|[Note](./103/note.md)|Medium|O(n)|O(1)||
