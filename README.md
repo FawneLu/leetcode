@@ -393,5 +393,6 @@ Table of Contents
 |No.099|[Group Anagrams](https://leetcode.com/problems/recover-binary-search-tree/submissions/)|[Solution](./099/Solution.py)|[Note](./099/note.md)|Medium|O(n)|O(1)||
 |No.103|[Group Anagrams](https://leetcode.com/problems/recover-binary-search-tree/submissions/)|[Solution](./103/Solution.py)|[Note](./103/note.md)|Medium|O(n)|O(1)||
 |No.126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Solution](./126/Solution.py)|[Note](./126/note.md)|Hard|O(n)|O(1)||
-|No.138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](./138/Solution.py)|[Note](./138/note.md)|Medium|O(n)|O(1)||
+|No.138|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Solution](./138/Solution.py)|[Note](./138/note.md)|Hard|O(n)|O(1)||
 |No.140|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](./140/Solution.py)|[Note](./140/note.md)|Medium|O(n)|O(1)||
+|No.146|[LRU Cacher](https://leetcode.com/problems/lru-cache/)|[Solution](./146/Solution.py)|[Note](./146/note.md)|Medium|O(n)|O(1)||
