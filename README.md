@@ -389,7 +389,8 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./005/Solution.py)|[Note](./005/note.md)|Medium|O(n)|O(1)||
 |No.042|[Recover Binary Search Tree](https://leetcode.com/problems/trapping-rain-water/)|[Solution](./042/Solution.py)|[Note](./042/note.md)|Hard|O(n)|O(1)||
-|No.049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./049/Solution.py)|[Note](./049/note.md)|Medium|O(n)|O(1
+|No.049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./049/Solution.py)|[Note](./049/note.md)|Medium|O(n)|O(1)||
 |No.099|[Group Anagrams](https://leetcode.com/problems/recover-binary-search-tree/submissions/)|[Solution](./099/Solution.py)|[Note](./099/note.md)|Medium|O(n)|O(1)||
 |No.103|[Group Anagrams](https://leetcode.com/problems/recover-binary-search-tree/submissions/)|[Solution](./103/Solution.py)|[Note](./103/note.md)|Medium|O(n)|O(1)||
 |No.126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Solution](./126/Solution.py)|[Note](./126/note.md)|Hard|O(n)|O(1)||
+|No.138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](./138/Solution.py)|[Note](./138/note.md)|Medium|O(n)|O(1)||
