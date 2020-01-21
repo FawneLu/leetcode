@@ -397,3 +397,4 @@ Table of Contents
 |No.140|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](./140/Solution.py)|[Note](./140/note.md)|Medium|O(n)|O(1)||
 |No.146|[LRU Cacher](https://leetcode.com/problems/lru-cache/)|[Solution](./146/Solution.py)|[Note](./146/note.md)|Medium|O(n)|O(1)||
 |No.200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](./200/Solution.py)|[Note](./200/note.md)|Medium|O(n)|O(1)||
+|No.240|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](./240/Solution.py)|[Note](./240/note.md)|Medium|O(n)|O(1)||
