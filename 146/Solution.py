@@ -1,23 +1,37 @@
 ```python
-class Solution:
-    def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
-        visited=dict()
-        return self.dfs(s,[],visited,wordDict)
-    
-    def dfs(self,s,res,visited,wordDict):
-        if s in visited:
-            return visited[s]
+class LRUCache:
+
+    def __init__(self, capacity: int):
+        self.capacity=capacity
+        self.cache=[]
+        self.visited=dict()
+
+    def get(self, key: int) -> int:
+        if key not in self.cache:
+            return -1
         
-        if not s:
-            return ['']
+        self.cache.remove(key)
+        self.cache.append(key)
         
-        res=[]
-        for word in wordDict:
-            if s[:len(word)]!= word:continue
-            for r in self.dfs(s[len(word):],res,visited,wordDict):
-                res.append (word+("" if not r else " "+r))
-                
-        visited[s]=res
-        
-        return res
+        return self.visited[key]
+
+    def put(self, key: int, value: int) -> None:
+        if key in self.cache:
+            self.visited[key]=value
+            self.cache.remove(key)
+            self.cache.append(key)
+        else:
+            if len(self.cache)==self.capacity:
+                del_key=self.cache[0]
+                self.cache=self.cache[1:]
+                del self.visited[del_key]
+            self.cache.append(key)
+            self.visited[key]=value
+            
+
+
+# Your LRUCache object will be instantiated and called as such:
+# obj = LRUCache(capacity)
+# param_1 = obj.get(key)
+# obj.put(key,value)
 ```
