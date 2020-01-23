@@ -405,3 +405,4 @@ Table of Contents
 |No.866|[Prime Palindrome](https://leetcode.com/problems/prime-palindrome/)|[Solution](./866/Solution.py)|[Note](./866/note.md)|Medium|O(n)|O(1)||
 |No.694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|[Solution](./694/Solution.py)|[Note](./694/note.md)|Medium|O(n)|O(1)||
 |No.273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./273/Solution.py)|[Note](./273/note.md)|Hard|O(n)|O(1)||
+|No.348|[Design Tic-Tac-Toes](https://leetcode.com/problems/design-tic-tac-toe/)|[Solution](./348/Solution.py)|[Note](./348/note.md)|Hard|O(n)|O(1)||
