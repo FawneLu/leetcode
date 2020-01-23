@@ -401,3 +401,4 @@ Table of Contents
 |No.253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./253/Solution.py)|[Note](./253/note.md)|Medium|O(n)|O(1)||
 |No.279|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./279/Solution.py)|[Note](./279/note.md)|Medium|O(n)|O(1)||
 |No.1099|[Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)|[Solution](./1099/Solution.py)|[Note](./1099/note.md)|Easy|O(n)|O(1)||
+|No.994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Solution](./994/Solution.py)|[Note](./994/note.md)|Easy|O(n)|O(1)||
