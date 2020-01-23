@@ -403,3 +403,4 @@ Table of Contents
 |No.1099|[Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)|[Solution](./1099/Solution.py)|[Note](./1099/note.md)|Easy|O(n)|O(1)||
 |No.994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Solution](./994/Solution.py)|[Note](./994/note.md)|Easy|O(n)|O(1)||
 |No.866|[Prime Palindrome](https://leetcode.com/problems/prime-palindrome/)|[Solution](./866/Solution.py)|[Note](./866/note.md)|Easy|O(n)|O(1)||
+|No.694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|[Solution](./694/Solution.py)|[Note](./694/note.md)|Easy|O(n)|O(1)||
