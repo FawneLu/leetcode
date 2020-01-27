@@ -413,4 +413,5 @@ Table of Contents
 |No.297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Solution](./297/Solution.py)|[Note](./297/note.md)|Hard|O(n)|O(1)||
 |No.759|[Employee Free Time](https://leetcode.com/problems/employee-free-time/)|[Solution](./759/Solution.py)|[Note](./759/note.md)|Hard|O(n)|O(1)||
 |No.1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[Solution](./1000/Solution.py)|[Note](./1000/note.md)|Hard|O(n)|O(1
-|No.1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Solution](./1167/Solution.py)|[Note](./1167/note.md)|Hard|O(n)|O(1)||
+|No.1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Solution](./1167/Solution.py)|[Note](./1167/note.md)|Medium|O(n)|O(1)||
+|No.1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Solution](./1268/Solution.py)|[Note](./1268/note.md)|Medium|O(n)|O(1)||
