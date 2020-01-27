@@ -412,3 +412,4 @@ Table of Contents
 |No.937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Solution](./937/Solution.py)|[Note](./937/note.md)|Hard|O(n)|O(1)||
 |No.297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Solution](./297/Solution.py)|[Note](./297/note.md)|Hard|O(n)|O(1)||
 |No.759|[Employee Free Time](https://leetcode.com/problems/employee-free-time/)|[Solution](./759/Solution.py)|[Note](./759/note.md)|Hard|O(n)|O(1)||
+|No.1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[Solution](./1000/Solution.py)|[Note](./1000/note.md)|Hard|O(n)|O(1)||
