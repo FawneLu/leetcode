@@ -416,3 +416,4 @@ Table of Contents
 |No.1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Solution](./1167/Solution.py)|[Note](./1167/note.md)|Medium|O(n)|O(1)||
 |No.1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Solution](./1268/Solution.py)|[Note](./1268/note.md)|Medium|O(n)|O(1)||
 |No.1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Solution](./1192/Solution.py)|[Note](./1192/note.md)|Hard|O(n)|O(1)||
+|No.1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Solution](./1155/Solution.py)|[Note](./1155/note.md)|Hard|O(n)|O(1)||
