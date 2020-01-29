@@ -418,3 +418,4 @@ Table of Contents
 |No.1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Solution](./1192/Solution.py)|[Note](./1192/note.md)|Hard|O(n)|O(1)||
 |No.1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Solution](./1155/Solution.py)|[Note](./1155/note.md)|Hard|O(n)|O(1)||
 |No.212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Solution](./212/Solution.py)|[Note](./212/note.md)|Hard|O(n)|O(1)||
+|No.460|[LFU Cache](https://leetcode.com/problems/lfu-cache/)|[Solution](./460/Solution.py)|[Note](./460/note.md)|Hard|O(n)|O(1)||
