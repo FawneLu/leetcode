@@ -335,6 +335,8 @@ Table of Contents
 |No.033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](./033/Solution.py)|[Note](./033/note.md)|Medium|O(n)|O(1)||
 |No.034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./034/Solution.py)|[Note](./034/note.md)|Medium|O(n)|O(1)||
 |No.039|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](./039/Solution.py)|[Note](./039/note.md)|Medium|O(n)|O(1)||
+|No.048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Solution](./048/Solution.py)|[Note](./048/note.md)|Medium|O(n)|O(1)||
+|No.041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Solution](./041/Solution.py)|[Note](./041/note.md)|Hard|O(n)|O(1)||
 
 
 ## Google
