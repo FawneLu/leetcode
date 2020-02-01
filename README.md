@@ -333,6 +333,8 @@ Table of Contents
 |No.031|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution](./031/Solution.py)|[Note](./031/note.md)|Medium|O(n)|O(1)||
 |No.032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Solution](./032/Solution.py)|[Note](./032/note.md)|Hard|O(n)|O(1)||
 |No.033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](./033/Solution.py)|[Note](./033/note.md)|Medium|O(n)|O(1)||
+|No.034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./034/Solution.py)|[Note](./034/note.md)|Medium|O(n)|O(1)||
+|No.039|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](./039/Solution.py)|[Note](./039/note.md)|Medium|O(n)|O(1)||
 
 
 ## Google
