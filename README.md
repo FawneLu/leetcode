@@ -332,6 +332,7 @@ Table of Contents
 |No.022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution](./022/Solution.py)|[Note](./022/note.md)|Medium|O(n)|O(1)||
 |No.031|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution](./031/Solution.py)|[Note](./031/note.md)|Medium|O(n)|O(1)||
 |No.032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Solution](./032/Solution.py)|[Note](./032/note.md)|Hard|O(n)|O(1)||
+|No.033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](./033/Solution.py)|[Note](./033/note.md)|Medium|O(n)|O(1)||
 
 
 ## Google
