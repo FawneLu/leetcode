@@ -330,6 +330,8 @@ Table of Contents
 |No.198|[House Robber](https://leetcode.com/problems/house-robber/)|[Solution](./198/Solution.py)|[Note](./198/note.md)|Easy|O(n)|O(1)||
 |No.213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Solution](./213/Solution.py)|[Note](./213/note.md)|Medium|O(n)|O(1)||
 |No.022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution](./022/Solution.py)|[Note](./022/note.md)|Medium|O(n)|O(1)||
+|No.031|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution](./031/Solution.py)|[Note](./031/note.md)|Medium|O(n)|O(1)||
+|No.032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Solution](./032/Solution.py)|[Note](./032/note.md)|Hard|O(n)|O(1)||
 
 
 ## Google
