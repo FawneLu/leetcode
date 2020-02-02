@@ -339,6 +339,8 @@ Table of Contents
 |No.041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Solution](./041/Solution.py)|[Note](./041/note.md)|Hard|O(n)|O(1)||
 |No.046|[ Permutations](https://leetcode.com/problems/permutations/)|[Solution](./046/Solution.py)|[Note](./046/note.md)|Medium|O(n)|O(1)||
 |No.064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](./064/Solution.py)|[Note](./064/note.md)|Medium|O(n)|O(1)||
+|No.055|[Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./055/Solution.py)|[Note](./055/note.md)|Medium|O(n)|O(1)||
+|No.078|[Subsets](https://leetcode.com/problems/subsets/)|[Solution](./078/Solution.py)|[Note](./078/note.md)|Medium|O(n)|O(1)||
 
 
 ## Google
