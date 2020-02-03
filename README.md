@@ -345,7 +345,7 @@ Table of Contents
 |No.075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](./075/Solution.py)|[Note](./075/note.md)|Medium|O(n)|O(1)||
 |No.072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Solution](./072/Solution.py)|[Note](./072/note.md)|Hard|O(n)|O(1)||
 |No.076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](./076/Solution.py)|[Note](./076/note.md)|Hard|O(n)|O(1)||
-
+|No.084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](./084/Solution.py)|[Note](./084/note.md)|Hard|O(n)|O(1)||
 
 
 ## Google
