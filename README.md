@@ -347,6 +347,7 @@ Table of Contents
 |No.076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](./076/Solution.py)|[Note](./076/note.md)|Hard|O(n)|O(1)||
 |No.084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](./084/Solution.py)|[Note](./084/note.md)|Hard|O(n)|O(1)||
 |No.085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Solution](./085/Solution.py)|[Note](./085/note.md)|Hard|O(n)|O(1)||
+|No.096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](./096/Solution.py)|[Note](./096/note.md)|Hard|O(n)|O(1)||
 
 
 ## Google
