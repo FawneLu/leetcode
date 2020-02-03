@@ -341,6 +341,7 @@ Table of Contents
 |No.064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](./064/Solution.py)|[Note](./064/note.md)|Medium|O(n)|O(1)||
 |No.055|[Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./055/Solution.py)|[Note](./055/note.md)|Medium|O(n)|O(1)||
 |No.078|[Subsets](https://leetcode.com/problems/subsets/)|[Solution](./078/Solution.py)|[Note](./078/note.md)|Medium|O(n)|O(1)||
+|No.079|[Word Search](https://leetcode.com/problems/word-search/)|[Solution](./079/Solution.py)|[Note](./079/note.md)|Medium|O(n)|O(1)||
 
 
 ## Google
