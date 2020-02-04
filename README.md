@@ -351,6 +351,8 @@ Table of Contents
 |No.098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](./098/Solution.py)|[Note](./098/note.md)|Medium|O(n)|O(1)||
 |No.105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Solution](./105/Solution.py)|[Note](./105/note.md)|Medium|O(n)|O(1)||
 |No.128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](./128/Solution.py)|[Note](./128/note.md)|Hard|O(n)|O(1)||
+|No.148|[Sort List](https://leetcode.com/problems/sort-list/)|[Solution](./148/Solution.py)|[Note](./148/note.md)|Medium|O(n)|O(1)||
+|No.114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Solution](./114/Solution.py)|[Note](./114/note.md)|Medium|O(n)|O(1)||
 
 
 
