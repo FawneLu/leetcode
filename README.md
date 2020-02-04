@@ -347,7 +347,9 @@ Table of Contents
 |No.076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](./076/Solution.py)|[Note](./076/note.md)|Hard|O(n)|O(1)||
 |No.084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](./084/Solution.py)|[Note](./084/note.md)|Hard|O(n)|O(1)||
 |No.085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Solution](./085/Solution.py)|[Note](./085/note.md)|Hard|O(n)|O(1)||
-|No.096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](./096/Solution.py)|[Note](./096/note.md)|Hard|O(n)|O(1)||
+|No.096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](./096/Solution.py)|[Note](./096/note.md)|Medium|O(n)|O(1)||
+|No.098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](./098/Solution.py)|[Note](./098/note.md)|Medium|O(n)|O(1)||
+|No.105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Solution](./105/Solution.py)|[Note](./105/note.md)|Medium|O(n)|O(1)||
 
 
 ## Google
