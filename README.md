@@ -350,6 +350,8 @@ Table of Contents
 |No.096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](./096/Solution.py)|[Note](./096/note.md)|Medium|O(n)|O(1)||
 |No.098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](./098/Solution.py)|[Note](./098/note.md)|Medium|O(n)|O(1)||
 |No.105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Solution](./105/Solution.py)|[Note](./105/note.md)|Medium|O(n)|O(1)||
+|No.128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](./128/Solution.py)|[Note](./128/note.md)|Hard|O(n)|O(1)||
+
 
 
 ## Google
