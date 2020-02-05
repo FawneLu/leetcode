@@ -357,6 +357,7 @@ Table of Contents
 |No.207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](./207/Solution.py)|[Note](./207/note.md)|Medium|O(n)|O(1)||
 |No.208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](./208/Solution.py)|[Note](./208/note.md)|Medium|O(n)|O(1)||
 |No.238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](./238/Solution.py)|[Note](./238/note.md)|Medium|O(n)|O(1)||
+|No.300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./300/Solution.py)|[Note](./300/note.md)|Medium|O(n)|O(1)||
 
 
 ## Google
