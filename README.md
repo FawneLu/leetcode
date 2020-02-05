@@ -358,6 +358,7 @@ Table of Contents
 |No.208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](./208/Solution.py)|[Note](./208/note.md)|Medium|O(n)|O(1)||
 |No.238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](./238/Solution.py)|[Note](./238/note.md)|Medium|O(n)|O(1)||
 |No.300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./300/Solution.py)|[Note](./300/note.md)|Medium|O(n)|O(1)||
+|No.300|[ Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./300/Solution.py)|[Note](./300/note.md)|Medium|O(n)|O(1)||
 
 
 ## Google
