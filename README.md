@@ -354,7 +354,7 @@ Table of Contents
 |No.148|[Sort List](https://leetcode.com/problems/sort-list/)|[Solution](./148/Solution.py)|[Note](./148/note.md)|Medium|O(n)|O(1)||
 |No.114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Solution](./114/Solution.py)|[Note](./114/note.md)|Medium|O(n)|O(1)||
 |No.152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](./152/Solution.py)|[Note](./152/note.md)|Medium|O(n)|O(1)||
-
+|No.207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](./207/Solution.py)|[Note](./207/note.md)|Medium|O(n)|O(1)||
 
 
 ## Google
