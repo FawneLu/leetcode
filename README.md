@@ -361,6 +361,8 @@ Table of Contents
 |No.131|[ Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./131/Solution.py)|[Note](./131/note.md)|Medium|O(n)|O(1)||
 |No.301|[ Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[Solution](./301/Solution.py)|[Note](./301/note.md)|Hard|O(n)|O(1)||
 |No.309|[ Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Solution](./309/Solution.py)|[Note](./309/note.md)|Medium|O(n)|O(1)||
+|No.312|[ Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Solution](./312/Solution.py)|[Note](./312/note.md)|Hard|O(n)|O(1)||
+|No.322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[Solution](./322/Solution.py)|[Note](./322/note.md)|Medium|O(n)|O(1)||
 
 
 ## Google
