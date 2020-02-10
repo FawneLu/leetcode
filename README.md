@@ -336,38 +336,9 @@ Table of Contents
 |No.034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./034/Solution.py)|[Note](./034/note.md)|Medium|O(n)|O(1)||
 |No.039|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](./039/Solution.py)|[Note](./039/note.md)|Medium|O(n)|O(1)||
 |No.048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Solution](./048/Solution.py)|[Note](./048/note.md)|Medium|O(n)|O(1)||
-|No.041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Solution](./041/Solution.py)|[Note](./041/note.md)|Hard|O(n)|O(1)||
-|No.046|[ Permutations](https://leetcode.com/problems/permutations/)|[Solution](./046/Solution.py)|[Note](./046/note.md)|Medium|O(n)|O(1)||
-|No.064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](./064/Solution.py)|[Note](./064/note.md)|Medium|O(n)|O(1)||
-|No.055|[Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./055/Solution.py)|[Note](./055/note.md)|Medium|O(n)|O(1)||
-|No.078|[Subsets](https://leetcode.com/problems/subsets/)|[Solution](./078/Solution.py)|[Note](./078/note.md)|Medium|O(n)|O(1)||
-|No.079|[Word Search](https://leetcode.com/problems/word-search/)|[Solution](./079/Solution.py)|[Note](./079/note.md)|Medium|O(n)|O(1)||
-|No.075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](./075/Solution.py)|[Note](./075/note.md)|Medium|O(n)|O(1)||
-|No.072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Solution](./072/Solution.py)|[Note](./072/note.md)|Hard|O(n)|O(1)||
-|No.076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](./076/Solution.py)|[Note](./076/note.md)|Hard|O(n)|O(1)||
-|No.084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](./084/Solution.py)|[Note](./084/note.md)|Hard|O(n)|O(1)||
-|No.085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Solution](./085/Solution.py)|[Note](./085/note.md)|Hard|O(n)|O(1)||
-|No.096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](./096/Solution.py)|[Note](./096/note.md)|Medium|O(n)|O(1)||
-|No.098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](./098/Solution.py)|[Note](./098/note.md)|Medium|O(n)|O(1)||
-|No.105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Solution](./105/Solution.py)|[Note](./105/note.md)|Medium|O(n)|O(1)||
-|No.128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](./128/Solution.py)|[Note](./128/note.md)|Hard|O(n)|O(1)||
-|No.148|[Sort List](https://leetcode.com/problems/sort-list/)|[Solution](./148/Solution.py)|[Note](./148/note.md)|Medium|O(n)|O(1)||
-|No.114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Solution](./114/Solution.py)|[Note](./114/note.md)|Medium|O(n)|O(1)||
-|No.152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](./152/Solution.py)|[Note](./152/note.md)|Medium|O(n)|O(1)||
-|No.207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](./207/Solution.py)|[Note](./207/note.md)|Medium|O(n)|O(1)||
-|No.208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](./208/Solution.py)|[Note](./208/note.md)|Medium|O(n)|O(1)||
-|No.238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](./238/Solution.py)|[Note](./238/note.md)|Medium|O(n)|O(1)||
-|No.300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./300/Solution.py)|[Note](./300/note.md)|Medium|O(n)|O(1)||
-|No.131|[ Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./131/Solution.py)|[Note](./131/note.md)|Medium|O(n)|O(1)||
-|No.301|[ Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[Solution](./301/Solution.py)|[Note](./301/note.md)|Hard|O(n)|O(1)||
-|No.309|[ Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Solution](./309/Solution.py)|[Note](./309/note.md)|Medium|O(n)|O(1)||
-|No.312|[ Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Solution](./312/Solution.py)|[Note](./312/note.md)|Hard|O(n)|O(1)||
-|No.322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[Solution](./322/Solution.py)|[Note](./322/note.md)|Medium|O(n)|O(1)||
-|No.287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](./287/Solution.py)|[Note](./287/note.md)|Medium|O(n)|O(1)||
-|No.337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Solution](./337/Solution.py)|[Note](./337/note.md)|Medium|O(n)|O(1)||
-|No.338|[ Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](./338/Solution.py)|[Note](./338/note.md)|Medium|O(n)|O(1)||
-|No.494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](./494/Solution.py)|[Note](./494/note.md)|Medium|O(n)|O(1)||
+|No.406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](./406/Solution.py)|[Note](./406/note.md)|Medium|O(n)|O(1)||
 |No.416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Solution](./416/Solution.py)|[Note](./416/note.md)|Medium|O(n)|O(1)||
+
 
 
 ## Google
