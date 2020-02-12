@@ -340,6 +340,8 @@ Table of Contents
 |No.416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Solution](./416/Solution.py)|[Note](./416/note.md)|Medium|O(n)|O(1)||
 |No.581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Solution](./581/Solution.py)|[Note](./581/note.md)|Easy|O(n)|O(1)||
 |No.621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Solution](./621/Solution.py)|[Note](./621/note.md)|Medium|O(n)|O(1)||
+|No.647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./647/Solution.py)|[Note](./647/note.md)|Medium|O(n)|O(1)||
+|No.739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](./739/Solution.py)|[Note](./739/note.md)|Medium|O(n)|O(1)||
 
 
 
