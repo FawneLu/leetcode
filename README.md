@@ -346,6 +346,15 @@ Table of Contents
 |No.199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./199/Solution.py)|[Note](./199/note.md)|Medium|O(n)|O(1)||
 
 
+
+## Facebook
+|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
+|---|-----|--------|----|----------|----|-----|---|
+|No.953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/submissions/)|[Solution](./953/Solution.py)|[Note](./953/note.md)|Easy|O(n)|O(1)||
+
+
+
+
 ## Google
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
