@@ -351,7 +351,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/submissions/)|[Solution](./953/Solution.py)|[Note](./953/note.md)|Easy|O(n)|O(1)||
-
+|No.278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](./278/Solution.py)|[Note](./278/note.md)|Easy|O(n)|O(1)||
 
 
 
