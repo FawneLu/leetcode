@@ -354,6 +354,7 @@ Table of Contents
 |No.278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](./278/Solution.py)|[Note](./278/note.md)|Easy|O(n)|O(1)||
 |No.824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Solution](./824/Solution.py)|[Note](./824/note.md)|Easy|O(n)|O(1)||
 |No.523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Solution](./523/Solution.py)|[Note](./523/note.md)|Easy|O(n)|O(1)||
+|No.1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problemset/top-facebook-questions/)|[Solution](./1249/Solution.py)|[Note](./1249/note.md)|Easy|O(n)|O(1)||
 
 
 
