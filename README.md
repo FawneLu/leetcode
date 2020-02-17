@@ -357,6 +357,7 @@ Table of Contents
 |No.1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problemset/top-facebook-questions/)|[Solution](./1249/Solution.py)|[Note](./1249/note.md)|Easy|O(n)|O(1)||
 |No.071|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Solution](./071/Solution.py)|[Note](./071/note.md)|Easy|O(n)|O(1)||
 |No.211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Solution](./211/Solution.py)|[Note](./211/note.md)|Easy|O(n)|O(1)||
+|No.133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](./133/Solution.py)|[Note](./133/note.md)|Easy|O(n)|O(1)||
 
 
 
