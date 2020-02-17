@@ -361,6 +361,7 @@ Table of Contents
 |No.398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](./398/Solution.py)|[Note](./398/note.md)|Medium|O(n)|O(1)||
 |No.987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Solution](./987/Solution.py)|[Note](./987/note.md)|Medium|O(n)|O(1)||
 |No.282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[Solution](./282/Solution.py)|[Note](./282/note.md)|Hard|O(n)|O(1)||
+|No.269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Solution](./269/Solution.py)|[Note](./269/note.md)|Hard|O(n)|O(1)||
 
 
 
