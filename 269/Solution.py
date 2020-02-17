@@ -49,3 +49,46 @@ class Solution:
                 indegree[word2[i]].add(word1[i])
                 break
 ```
+```python
+class Solution:
+    def alienOrder(self, words: List[str]) -> str:
+        nodes=set()
+        res=[]
+        visited={}
+        ancestors=collections.defaultdict(list)
+        
+        for word in words:
+            for c in word:
+                nodes.add(c)
+                
+        for i in range(1,len(words)):
+            if len(words[i-1])>len(words[i]) and words[i-1][:len(words[i])]==words[i-1]:
+                return ""
+            self.buildEdges(words[i-1],words[i],ancestors)
+        
+        for node in nodes:
+            if self.topsortDFS(node,node,ancestors,res,visited):
+                return ""
+        
+        return "".join(res)
+            
+    def buildEdges(self,word1,word2,ancestors):
+        l=min(len(word1),len(word2))
+        for i in range(l):
+            if word1[i]!=word2[i]:
+                ancestors[word2[i]].append(word1[i])
+                break
+    
+    def topsortDFS(self,root,node,ancestors,res,visited):
+        if node not in visited:
+            visited[node]=root
+            for ancestor in ancestors[node]:
+                if self.topsortDFS(root, ancestor, ancestors,res,visited):
+                    return True
+            res.append(node)
+            
+        elif visited[node]==root:
+            return True
+        
+        return False
+```

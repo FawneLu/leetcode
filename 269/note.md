@@ -1,4 +1,5 @@
 ### 拓扑排序
+- BFS  
 首先我们根据字典的排序构建一个入度，出度的图。
 ```python
 def buildEdges(self,word1,word2,indegree,outdegree):
@@ -36,4 +37,7 @@ if outdegree:
             return ""
         
         return "".join(res)
-```
+```  
+
+- DFS
+DFS我觉得不太好理解。构建一个ancestors, 然后不断遍历他的子孙。 如果遍历到的子孙的root等于已经遍历过了的root的值就返回True，证明有环 证明不满足， 否则返回False。
