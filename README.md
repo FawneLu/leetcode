@@ -359,6 +359,7 @@ Table of Contents
 |No.211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Solution](./211/Solution.py)|[Note](./211/note.md)|Medium|O(n)|O(1)||
 |No.133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](./133/Solution.py)|[Note](./133/note.md)|Medium|O(n)|O(1)||
 |No.398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](./398/Solution.py)|[Note](./398/note.md)|Medium|O(n)|O(1)||
+|No.987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Solution](./987/Solution.py)|[Note](./987/note.md)|Medium|O(n)|O(1)||
 
 
 
