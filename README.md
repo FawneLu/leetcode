@@ -363,6 +363,7 @@ Table of Contents
 |No.282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[Solution](./282/Solution.py)|[Note](./282/note.md)|Hard|O(n)|O(1)||
 |No.269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Solution](./269/Solution.py)|[Note](./269/note.md)|Hard|O(n)|O(1)||
 |No.426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|[Solution](./426/Solution.py)|[Note](./426/note.md)|Medium|O(n)|O(1)||
+|No.304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Solution](./304/Solution.py)|[Note](./304/note.md)|Medium|O(n)|O(1)||
 
 
 
