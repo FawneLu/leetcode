@@ -364,6 +364,7 @@ Table of Contents
 |No.269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Solution](./269/Solution.py)|[Note](./269/note.md)|Hard|O(n)|O(1)||
 |No.426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|[Solution](./426/Solution.py)|[Note](./426/note.md)|Medium|O(n)|O(1)||
 |No.304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Solution](./304/Solution.py)|[Note](./304/note.md)|Medium|O(n)|O(1)||
+|No.1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Solution](./1060/Solution.py)|[Note](./1060/note.md)|Medium|O(n)|O(1)||
 
 
 
