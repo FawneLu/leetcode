@@ -152,7 +152,8 @@ Table of Contents
 |No.002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](./002/Solution.py)|[Note](./002/note.md)|Medium|O(n)|O(1)|Linked List|
 |No.445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Solution](./445/Solution.py)|[Note](./445/note.md)|Medium|O(n)|O(1)|Linked List|
 |No.817|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Solution](./817/Solution.py)|[Note](./817/note.md)|Medium|O(n)|O(1)|Linked List|
-
+|No.1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Solution](./1290/Solution.py)|[Note](./1290/note.md)|Easy|O(n)|O(1)|Linked List|
+|No.147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Solution](./147/Solution.py)|[Note](./147/note.md)|Easy|O(n)|O(1)|Linked List|
 
 
 ## Stack
