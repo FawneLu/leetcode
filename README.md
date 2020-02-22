@@ -153,7 +153,7 @@ Table of Contents
 |No.445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Solution](./445/Solution.py)|[Note](./445/note.md)|Medium|O(n)|O(1)|Linked List|
 |No.817|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Solution](./817/Solution.py)|[Note](./817/note.md)|Medium|O(n)|O(1)|Linked List|
 |No.1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Solution](./1290/Solution.py)|[Note](./1290/note.md)|Easy|O(n)|O(1)|Linked List|
-|No.147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Solution](./147/Solution.py)|[Note](./147/note.md)|Easy|O(n)|O(1)|Linked List|
+|No.147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Solution](./147/Solution.py)|[Note](./147/note.md)|Medium|O(n)|O(1)|Linked List|
 
 
 ## Stack
@@ -186,6 +186,7 @@ Table of Contents
 |No.894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[Solution](./894/Solution.py)|[Note](./894/note.md)|Easy|O(n)|O(1)|Recursion|
 |No.544|[Output Contest Matches](https://leetcode.com/problems/output-contest-matches/)|[Solution](./544/Solution.py)|[Note](./544/note.md)|Easy|O(n)|O(1)|Recursion|
 |No.247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|[Solution](./247/Solution.py)|[Note](./247/note.md)|Easy|O(n)|O(1)|Recursion|
+|No.938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](./938/Solution.py)|[Note](./938/note.md)|Easy|O(n)|O(1)|Recursion|
 
 
 ## Queue
