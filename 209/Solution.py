@@ -1,4 +1,40 @@
 ```python
+class Solution:
+    def minSubArrayLen(self, s: int, nums: List[int]) -> int:
+        def binary_search(nums,target):
+            left=0
+            right=len(nums)
+            while left<=right:
+                mid=left+(right-left)//2
+                if nums[mid]>=target:
+                    if mid==0 or nums[mid-1]<target:
+                        return mid
+                    else: right=mid-1
+                else:
+                    left=mid+1
+            
+            return left
+                    
+        pre_sum=[]
+        pre_sum.append(0)
+        for num in nums:
+            pre_sum.append(pre_sum[-1]+num)
+        
+        res=float('inf')
+        for i in range(len(pre_sum)):
+            target=pre_sum[i]-s
+            if target<0:
+                continue
+            pos=binary_search(pre_sum,target)
+            
+            if pre_sum[i]-pre_sum[pos]==s:
+                res=min(res,i-pos)
+            if pre_sum[i]-pre_sum[pos]<s:
+                res=min(res,i-pos+1)
+        
+        return 0 if res==float('inf') else res
+```
+```python
 class Solution(object):
     def minSubArrayLen(self, s, nums):
         """
