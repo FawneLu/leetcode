@@ -354,6 +354,7 @@ Table of Contents
 |No.739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](./739/Solution.py)|[Note](./739/note.md)|Medium|O(n)|O(1)||
 |No.986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Solution](./986/Solution.py)|[Note](./986/note.md)|Medium|O(n)|O(1)||
 |No.199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./199/Solution.py)|[Note](./199/note.md)|Medium|O(n)|O(1)||
+|No.643|[Maximum Average Subarray I](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./643/Solution.py)|[Note](./643/note.md)|Medium|O(n)|O(1)||
 
 
 
