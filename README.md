@@ -189,6 +189,7 @@ Table of Contents
 |No.938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](./938/Solution.py)|[Note](./938/note.md)|Easy|O(n)|O(1)|Recursion|
 |No.783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Solution](./783/Solution.py)|[Note](./783/note.md)|Easy|O(n)|O(1)|Recursion|
 |No.776|[Split BST](https://leetcode.com/problems/split-bst/)|[Solution](./776/Solution.py)|[Note](./776/note.md)|Medium|O(n)|O(1)|Recursion|
+|No.698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Solution](./698/Solution.py)|[Note](./698/note.md)|Medium|O(n)|O(1)|Recursion|
 
 
 ## Queue
