@@ -190,6 +190,7 @@ Table of Contents
 |No.783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Solution](./783/Solution.py)|[Note](./783/note.md)|Easy|O(n)|O(1)|Recursion|
 |No.776|[Split BST](https://leetcode.com/problems/split-bst/)|[Solution](./776/Solution.py)|[Note](./776/note.md)|Medium|O(n)|O(1)|Recursion|
 |No.698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Solution](./698/Solution.py)|[Note](./698/note.md)|Medium|O(n)|O(1)|Recursion|
+|No.779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Solution](./779/Solution.py)|[Note](./779/note.md)|Medium|O(n)|O(1)|Recursion|
 
 
 ## Queue
@@ -235,6 +236,9 @@ Table of Contents
 |No.701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](./701/Solution.py)|[Note](./701/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Solution](./814/Solution.py)|[Note](./814/note.md)|Easy|O(n)|O(1)|Binary Tree|
 |No.545|[Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/)|[Solution](./545/Solution.py)|[Note](./545/note.md)|Medium|O(n)|O(1)||
+|No.314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[Solution](./314/Solution.py)|[Note](./314/note.md)|Medium|O(n)|O(1)||
+
+
 
 
 ## Hash Table
