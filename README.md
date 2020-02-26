@@ -272,6 +272,8 @@ Table of Contents
 ## Binary Search
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
+|No.378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution](./378/Solution.py)|[Note](./378/note.md)|Easy|O(n)|O(1)|Binary Search|
+
 
 
 
