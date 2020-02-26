@@ -267,12 +267,15 @@ Table of Contents
 |No.215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](./215/Solution.py)|[Note](./215/note.md)|Easy|O(n)|O(1)|Heap|
 |No.264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Solution](./264/Solution.py)|[Note](./264/note.md)|Easy|O(n)|O(1)|Heap|
 |No.937|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](./937/Solution.py)|[Note](./937/note.md)|Easy|O(n)|O(1)|Heap|
+|No.786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Solution](./786/Solution.py)|[Note](./786/note.md)|Hard|O(n)|O(1)|Heap|
 
 
 ## Binary Search
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-|No.378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution](./378/Solution.py)|[Note](./378/note.md)|Easy|O(n)|O(1)|Binary Search|
+|No.378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution](./378/Solution.py)|[Note](./378/note.md)|Medium|O(n)|O(1)|Binary Search|
+|No.786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Solution](./786/Solution.py)|[Note](./786/note.md)|Hard|O(n)|O(1)|Binary Search|
+|No.668|[Kth Smallest Number in Multiplication Tablen](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Solution](./668/Solution.py)|[Note](./668/note.md)|Hard|O(n)|O(1)|Binary Search|
 
 
 
