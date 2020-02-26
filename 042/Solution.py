@@ -1,6 +1,24 @@
 ```python
 class Solution:
     def trap(self, height: List[int]) -> int:
+        res=0
+        current=0
+        stack=[]
+        while current<len(height):
+            while stack and height[current]>height[stack[-1]]:
+                top=stack.pop()
+                if not stack:
+                    break
+                distance=current-stack[-1]-1
+                bound=min(height[current],height[stack[-1]])-height[top]
+                res+=distance*bound
+            stack.append(current)
+            current+=1
+        return res
+```
+```python
+class Solution:
+    def trap(self, height: List[int]) -> int:
         if not height:
             return 0
         
