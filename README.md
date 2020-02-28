@@ -240,7 +240,8 @@ Table of Contents
 |No.1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Solution](./1325/Solution.py)|[Note](./1325/note.md)|Medium|O(n)|O(1)||
 |No.1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[Solution](./1130/Solution.py)|[Note](./1130/note.md)|Medium|O(n)|O(1)||
 |No.863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree//)|[Solution](./863/Solution.py)|[Note](./863/note.md)|Medium|O(n)|O(1)||
-
+|No.366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|[Solution](./366/Solution.py)|[Note](./366/note.md)|Medium|O(n)|O(1)||
+|No.116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Solution](./116/Solution.py)|[Note](./116/note.md)|Medium|O(n)|O(1)||
 
 
 
