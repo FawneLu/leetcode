@@ -24,3 +24,23 @@ class Solution:
             
             return True
 ```
+```python
+class Solution:
+     def isValidBST(self, root: TreeNode) -> bool:
+            if not root:
+                return True
+            
+            min_val=float('-inf')
+            stack=[]
+            
+            while stack or root:
+                while root:
+                    stack.append(root)
+                    root=root.left
+                root=stack.pop()
+                if root.val<=min_val:
+                    return False
+                min_val=root.val
+                root=root.right
+            return True
+```
