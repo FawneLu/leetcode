@@ -3,6 +3,31 @@ class Solution:
     def longestPalindrome(self, s: str) -> str:
         if len(set(s))==1:
             return s
+        
+        start,end=0,0
+        
+        def length(left,right):
+            L=left
+            R=right
+            while L>=0 and R<len(s) and s[L]==s[R]:
+                L-=1
+                R+=1
+            return R-L-1
+        
+        for i in range(len(s)):
+            len1=length(i,i)
+            len2=length(i,i+1)
+            max_len=max(len1,len2)
+            if max_len>end-start+1:
+                start=i-(max_len-1)//2
+                end=i+max_len//2
+        return s[start:end+1]
+```
+```python
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        if len(set(s))==1:
+            return s
         dp=[[0]*len(s) for i in range(len(s))]
         start=0
         end=0
