@@ -244,6 +244,7 @@ Table of Contents
 |No.116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Solution](./116/Solution.py)|[Note](./116/note.md)|Medium|O(n)|O(1)||
 |No.095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Solution](./095/Solution.py)|[Note](./095/note.md)|Medium|O(n)|O(1)||
 |No.117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Solution](./117/Solution.py)|[Note](./117/note.md)|Medium|O(n)|O(1)||
+|No.270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[Solution](./270/Solution.py)|[Note](./270/note.md)|Easys|O(n)|O(1)||
 
 
 
