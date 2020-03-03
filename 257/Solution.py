@@ -29,3 +29,23 @@ class Solution:
         
         return paths
 ```
+```python3
+class Solution:
+    def binaryTreePaths(self, root: TreeNode) -> List[str]:
+        paths=[]
+        if not root:
+            return paths
+        
+        if not root.left and not root.right:
+            paths.append(str(root.val))
+        
+        leftpaths=self.binaryTreePaths(root.left)
+        rightpaths=self.binaryTreePaths(root.right)
+        
+        for left_p in leftpaths:
+            paths.append(str(root.val)+"->"+str(left_p))
+        for right_p in rightpaths:
+            paths.append(str(root.val)+"->"+str(right_p))
+        
+        return paths
+```
