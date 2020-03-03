@@ -1,4 +1,19 @@
 ```python3
+class Solution:
+    def maxDepth(self, root: TreeNode) -> int:
+        self.depth=0
+        
+        if not root:
+            return self.depth
+        
+        left=self.maxDepth(root.left)
+        right=self.maxDepth(root.right)
+        
+        self.depth=max(self.depth,max(left,right)+1)
+        
+        return self.depth
+```
+```python3
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):
