@@ -247,6 +247,7 @@ Table of Contents
 |No.270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[Solution](./270/Solution.py)|[Note](./270/note.md)|Easy|O(n)|O(1)||
 |No.272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)|[Solution](./272/Solution.py)|[Note](./272/note.md)|Hard|O(n)|O(1)||
 |No.742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/)|[Solution](./742/Solution.py)|[Note](./742/note.md)|Medium|O(n)|O(1)||
+|No.655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/)|[Solution](./655/Solution.py)|[Note](./655/note.md)|Medium|O(n)|O(1)||
 
 
 
