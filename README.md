@@ -191,6 +191,7 @@ Table of Contents
 |No.776|[Split BST](https://leetcode.com/problems/split-bst/)|[Solution](./776/Solution.py)|[Note](./776/note.md)|Medium|O(n)|O(1)|Recursion|
 |No.698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Solution](./698/Solution.py)|[Note](./698/note.md)|Medium|O(n)|O(1)|Recursion|
 |No.779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Solution](./779/Solution.py)|[Note](./779/note.md)|Medium|O(n)|O(1)|Recursion|
+|No.625|[Minimum Factorization](https://leetcode.com/problems/minimum-factorization/)|[Solution](./625/Solution.py)|[Note](./625/note.md)|Medium|O(n)|O(1)|Recursion|
 
 
 ## Queue
