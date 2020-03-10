@@ -172,6 +172,9 @@ Table of Contents
 |No.150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution](./150/Solution.py)|[Note](./150/note.md)|Easy|O(n)|O(1)|Stack|
 |No.225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Solution](./225/Solution.py)|[Note](./225/note.md)|Easy|O(n)|O(1)|Stack|
 |No.496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Solution](./496/Solution.py)|[Note](./496/note.md)|Easy|O(n)|O(1)|Stack|
+|No.503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Solution](./503/Solution.py)|[Note](./503/note.md)|Medium|O(n)|O(1)|Stack|
+
+
 
 
 ## Recursion
