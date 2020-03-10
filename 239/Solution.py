@@ -1,6 +1,23 @@
 ```python
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
+        stack=[]
+        res=[]
+        for i,val in enumerate(nums):
+            if i>=k and i-stack[0]>=k:
+                stack.pop(0)
+            while stack and nums[stack[-1]]<val:
+                stack.pop()
+            
+            stack.append(i)
+            if i>k-2:
+                res.append(nums[stack[0]])
+        
+        return res
+```
+```python
+class Solution:
+    def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
         n=len(nums)
         if n*k==0:
             return []
