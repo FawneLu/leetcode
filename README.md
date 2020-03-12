@@ -173,6 +173,7 @@ Table of Contents
 |No.225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Solution](./225/Solution.py)|[Note](./225/note.md)|Easy|O(n)|O(1)|Stack|
 |No.496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Solution](./496/Solution.py)|[Note](./496/note.md)|Easy|O(n)|O(1)|Stack|
 |No.503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Solution](./503/Solution.py)|[Note](./503/note.md)|Medium|O(n)|O(1)|Stack|
+|No.901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Solution](./901/Solution.py)|[Note](./901/note.md)|Medium|O(n)|O(1)|Stack|
 
 
 
