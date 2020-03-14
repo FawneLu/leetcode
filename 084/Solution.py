@@ -5,20 +5,16 @@ class Solution:
         stack=[]
         max_area=0
         for i in range(len(heights)):
-            if not stack or heights[i]>heights[stack[-1]]:
-                stack.append(i)
+            while stack and heights[i]<=heights[stack[-1]]:
+                index=stack[-1]
+                stack.pop()
+                if not stack:
+                    w=i
+                else:
+                    w=i-stack[-1]-1
+                max_area = max(max_area,heights[index]*w)
                 
-            else:
-                while stack and heights[i]<=heights[stack[-1]]:
-                    index=stack[-1]
-                    stack.pop()
-                    if not stack:
-                        w=i
-                    else:
-                        w=i-stack[-1]-1
-                    max_area = max(max_area,heights[index]*w)
-                
-                stack.append(i)
+            stack.append(i)
         
         return max_area
 ```
