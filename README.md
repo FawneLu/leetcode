@@ -130,6 +130,8 @@ Table of Contents
 |No.557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](./557/Solution.py)|[Note](./557/note.md)|Easy|O(n)|O(1)|String|
 |No.012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/submissions/)|[Solution](./012/Solution.py)|[Note](./012/note.md)|Easy|O(n)|O(1)|String|
 |No.551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Solution](./551/Solution.py)|[Note](./551/note.md)|Easy|O(n)|O(1)|String|
+|No.556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Solution](./556/Solution.py)|[Note](./556/note.md)|Medium|O(n)|O(1)|String|
+
 
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
