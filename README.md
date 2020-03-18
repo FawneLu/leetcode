@@ -131,6 +131,8 @@ Table of Contents
 |No.012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/submissions/)|[Solution](./012/Solution.py)|[Note](./012/note.md)|Easy|O(n)|O(1)|String|
 |No.551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Solution](./551/Solution.py)|[Note](./551/note.md)|Easy|O(n)|O(1)|String|
 |No.556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Solution](./556/Solution.py)|[Note](./556/note.md)|Medium|O(n)|O(1)|String|
+|No.1177|[Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)|[Solution](./1177/Solution.py)|[Note](./1177/note.md)|Medium|O(n)|O(1)|String|
+
 
 
 ## Linked List
@@ -156,6 +158,7 @@ Table of Contents
 |No.817|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Solution](./817/Solution.py)|[Note](./817/note.md)|Medium|O(n)|O(1)|Linked List|
 |No.1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Solution](./1290/Solution.py)|[Note](./1290/note.md)|Easy|O(n)|O(1)|Linked List|
 |No.147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Solution](./147/Solution.py)|[Note](./147/note.md)|Medium|O(n)|O(1)|Linked List|
+
 
 
 ## Stack
@@ -386,6 +389,8 @@ Table of Contents
 |No.986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Solution](./986/Solution.py)|[Note](./986/note.md)|Medium|O(n)|O(1)||
 |No.199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./199/Solution.py)|[Note](./199/note.md)|Medium|O(n)|O(1)||
 |No.643|[Maximum Average Subarray I](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./643/Solution.py)|[Note](./643/note.md)|Medium|O(n)|O(1)||
+|No.289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Solution](./289/Solution.py)|[Note](./289/note.md)|Medium|O(n)|O(1)||
+
 
 
 
