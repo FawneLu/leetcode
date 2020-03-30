@@ -297,7 +297,7 @@ Table of Contents
 |No.378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution](./378/Solution.py)|[Note](./378/note.md)|Medium|O(n)|O(1)|Binary Search|
 |No.786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Solution](./786/Solution.py)|[Note](./786/note.md)|Hard|O(n)|O(1)|Binary Search|
 |No.668|[Kth Smallest Number in Multiplication Tablen](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Solution](./668/Solution.py)|[Note](./668/note.md)|Hard|O(n)|O(1)|Binary Search|
-
+|No.374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Solution](./374/Solution.py)|[Note](./374/note.md)|Easy|O(n)|O(1)|Binary Search|
 
 
 
@@ -389,7 +389,7 @@ Table of Contents
 |No.986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Solution](./986/Solution.py)|[Note](./986/note.md)|Medium|O(n)|O(1)||
 |No.199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./199/Solution.py)|[Note](./199/note.md)|Medium|O(n)|O(1)||
 |No.643|[Maximum Average Subarray I](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./643/Solution.py)|[Note](./643/note.md)|Medium|O(n)|O(1)||
-|No.289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Solution](./289/Solution.py)|[Note](./289/note.md)|Medium|O(n)|O(1)||
+|No.289|[Game of Life0](https://leetcode.com/problems/game-of-life/)|[Solution](./289/Solution.py)|[Note](./289/note.md)|Medium|O(n)|O(1)||
 
 
 
