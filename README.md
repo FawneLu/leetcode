@@ -476,6 +476,10 @@ Table of Contents
 |No.951|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)|[Solution](./951/Solution.py)|[Note](./951/note.md)|Medium|O(n)|O(1)||
 |No.1168|[Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/)|[Solution](./1168/Solution.py)|[Note](./1168/note.md)|Hard|O(n)|O(1)||  
 |No.1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Solution](./1074/Solution.py)|[Note](./1074/note.md)|Hard|O(n)|O(1)||  
+|No.224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Solution](./224/Solution.py)|[Note](./224/note.md)|Hard|O(n)|O(1)||  
+|No.227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Solution](./227/Solution.py)|[Note](./227/note.md)|Medium|O(n)|O(1)||
+
+
 
 
 ## Amazon
