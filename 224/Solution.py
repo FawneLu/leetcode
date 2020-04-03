@@ -1,5 +1,46 @@
 class Solution:
     def calculate1(self, s: str) -> int:
+        s = s+'$'
+        
+        def helper(stack,i):
+            num=0
+            pre_op = '+'
+            
+            while i<len(s):
+                c=s[i]
+                
+                if c == ' ':
+                    i+=1
+                    continue
+
+                if c.isdigit():
+                    num = num*10 + int(c)
+                    i+=1
+
+                elif c == '(':
+                    num,i = helper([],i+1)
+                    
+                else:
+                    if pre_op == '+':
+                        stack.append(num)
+
+                    if pre_op == '-':
+                        stack.append(-num)
+                    
+                    num=0
+                    i+=1
+                    
+                    if c == ')':
+                        return sum(stack),i
+                    
+                    pre_op=c
+            
+            return sum(stack)
+        
+        return helper([],0)
+
+class Solution:
+    def calculate1(self, s: str) -> int:
         res, num, sign, stack=0, 0, 1, [1]
         
         for i in s + "+":
