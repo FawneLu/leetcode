@@ -479,6 +479,7 @@ Table of Contents
 |No.224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Solution](./224/Solution.py)|[Note](./224/note.md)|Hard|O(n)|O(1)||  
 |No.227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Solution](./227/Solution.py)|[Note](./227/note.md)|Medium|O(n)|O(1)||
 |No.772|[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)|[Solution](./772/Solution.py)|[Note](./772/note.md)|Hard|O(n)|O(1)||
+|No.283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Solution](./283/Solution.py)|[Note](./283/note.md)|Easy|O(n)|O(1)||
 
 
 
