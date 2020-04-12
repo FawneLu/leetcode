@@ -483,6 +483,7 @@ Table of Contents
 |No.122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](./122/Solution.py)|[Note](./122/note.md)|Easy|O(n)|O(1)||
 |No.1136|[Parallel Courses](https://leetcode.com/problems/parallel-courses/)|[Solution](./1136/Solution.py)|[Note](./1136/note.md)|Hard|O(n)|O(1)||
 |No.1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)|[Solution](./1292/Solution.py)|[Note](./1292/note.md)|Medium|O(n)|O(1)||
+|No.1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Solution](./1277/Solution.py)|[Note](./1277/note.md)|Medium|O(n)|O(1)||
 
 
 
