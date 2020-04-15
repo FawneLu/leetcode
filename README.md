@@ -487,6 +487,7 @@ Table of Contents
 |No.525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Solution](./525/Solution.py)|[Note](./525/note.md)|Medium|O(n)|O(1)||
 |No.274|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[Solution](./274/Solution.py)|[Note](./274/note.md)|Medium|O(n)|O(1)||
 |No.777|[Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)|[Solution](./777/Solution.py)|[Note](./777/note.md)|Medium|O(n)|O(1)||
+|No.1376|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Solution](./1376/Solution.py)|[Note](./1376/note.md)|Medium|O(n)|O(1)||
 
 
 
