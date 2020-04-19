@@ -489,6 +489,7 @@ Table of Contents
 |No.777|[Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)|[Solution](./777/Solution.py)|[Note](./777/note.md)|Medium|O(n)|O(1)||
 |No.1376|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Solution](./1376/Solution.py)|[Note](./1376/note.md)|Medium|O(n)|O(n)||
 |No.678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Solution](./678/Solution.py)|[Note](./678/note.md)|Medium|O(n)|O(n)||
+|No.1406|[Stone Game III](https://leetcode.com/problems/stone-game-iii/)|[Solution](./1406/Solution.py)|[Note](./1406/note.md)|Hard|O(n)|O(n)||
 
 
 
