@@ -493,6 +493,7 @@ Table of Contents
 |No.1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[Solution](./1140/Solution.py)|[Note](./1140/note.md)|Medium|O(n)|O(n)||
 |No.1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Solution](./1352/Solution.py)|[Note](./1352/note.md)|Medium|O(n)|O(n)||
 |No.1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[Solution](./1296/Solution.py)|[Note](./1296/note.md)|Medium|O(n)|O(n)||
+|No.1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](./1342/Solution.py)|[Note](./1342/note.md)|Easy|O(n)|O(n)||
 
 
 
