@@ -496,7 +496,7 @@ Table of Contents
 |No.1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](./1342/Solution.py)|[Note](./1342/note.md)|Easy|O(n)|O(n)||
 |No.153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](./153/Solution.py)|[Note](./153/note.md)|Medium|O(n)|O(n)||
 |No.201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[Solution](./201/Solution.py)|[Note](./201/note.md)|Medium|O(n)|O(n)||
-
+|No.1143|[ Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Solution](./1143/Solution.py)|[Note](./1143/note.md)|Medium|O(n)|O(n)||
 
 
 
