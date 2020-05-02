@@ -498,6 +498,8 @@ Table of Contents
 |No.201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[Solution](./201/Solution.py)|[Note](./201/note.md)|Medium|O(n)|O(n)||
 |No.1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Solution](./1143/Solution.py)|[Note](./1143/note.md)|Medium|O(n)|O(n)||
 |No.1345|[Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|[Solution](./1345/Solution.py)|[Note](./1345/note.md)|Hard|O(n)|O(n)||
+|No.1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[Solution](./1293/Solution.py)|[Note](./1293/note.md)|Hard|O(m^2*n^2)|O(m^2*n^2)||
+|No.362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|[Solution](./362/Solution.py)|[Note](./362/note.md)|Hard|O(m^2*n^2)|O(m^2*n^2)||
 
 
 
