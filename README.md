@@ -499,8 +499,10 @@ Table of Contents
 |No.1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Solution](./1143/Solution.py)|[Note](./1143/note.md)|Medium|O(n)|O(n)||
 |No.1345|[Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|[Solution](./1345/Solution.py)|[Note](./1345/note.md)|Hard|O(n)|O(n)||
 |No.1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[Solution](./1293/Solution.py)|[Note](./1293/note.md)|Hard|O(m^2*n^2)|O(m^2*n^2)||
-|No.362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|[Solution](./362/Solution.py)|[Note](./362/note.md)|Medium|O(1)|O(n||
-|No.1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Solution](./1009/Solution.py)|[Note](./1009/note.md)|Easy|O(1)|O(n||
+|No.362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|[Solution](./362/Solution.py)|[Note](./362/note.md)|Medium|O(1)|O(n)||
+|No.1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Solution](./1009/Solution.py)|[Note](./1009/note.md)|Easy|O(1)|O(n)||
+|No.1320|[Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/)|[Solution](./1320/Solution.py)|[Note](./1320/note.md)|Hard|O(1)|O(n)||
+|No.387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](./387/Solution.py)|[Note](./387/note.md)|Easy|O(1)|O(n)||
 
 
 
