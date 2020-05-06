@@ -1,0 +1,3 @@
+### 推理公式
+(1)第一行和最后一行下标间隔都是interval = n*2-2 = 8 ;    
+(2)中间行的间隔是周期性的,第i行的间隔是: interval–2*i, 2*i, interval–2*i, 2*i, interval–2*i, 2*i, …    
