@@ -61,4 +61,20 @@ class Solution(object):
             count=min(count,last-first+1)
         
         return count
-```  
+``` 
+
+```python
+def minSubArrayLen(self, s: int, nums: List[int]) -> int:
+        left,right=0,0
+        res=float('inf')
+        cum=0
+        for left in range(len(nums)):
+            while right<len(nums) and cum<s:
+                cum+=nums[right]
+                right+=1
+            if cum>=s:
+                res=min(res,right-left)
+            cum-=nums[left]
+                
+        return 0 if res==float('inf') else res
+```
