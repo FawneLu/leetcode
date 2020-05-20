@@ -390,6 +390,7 @@ Table of Contents
 |No.199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./199/Solution.py)|[Note](./199/note.md)|Medium|O(n)|O(1)||
 |No.643|[Maximum Average Subarray I](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./643/Solution.py)|[Note](./643/note.md)|Medium|O(n)|O(1)||
 |No.289|[Game of Life0](https://leetcode.com/problems/game-of-life/)|[Solution](./289/Solution.py)|[Note](./289/note.md)|Medium|O(n)|O(1)||
+|No.008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Solution](./008/Solution.py)|[Note](./008/note.md)|Medium|O(n)|O(1)||
 
 
 
@@ -503,6 +504,7 @@ Table of Contents
 |No.1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Solution](./1009/Solution.py)|[Note](./1009/note.md)|Easy|O(1)|O(n)||
 |No.1320|[Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/)|[Solution](./1320/Solution.py)|[Note](./1320/note.md)|Hard|O(1)|O(n)||
 |No.387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](./387/Solution.py)|[Note](./387/note.md)|Easy|O(1)|O(n)||
+|No.006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Solution](./006/Solution.py)|[Note](./006/note.md)|Medium|O(1)|O(n)||
 
 
 

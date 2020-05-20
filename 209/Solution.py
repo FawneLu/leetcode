@@ -63,7 +63,7 @@ class Solution(object):
         return count
 ``` 
 
-```python
+```python（时间复杂度O(2n)）
 def minSubArrayLen(self, s: int, nums: List[int]) -> int:
         left,right=0,0
         res=float('inf')

@@ -33,5 +33,18 @@ class Solution:
                 i+=1
             max_len=max(max_len,len(sub))
         return max_len
+
+        def lengthOfLongestSubstring(self, s: str) -> int:
+        left,right=0,0
+        res=0
+        visited=set()
+        for left in range(len(s)):
+            while right<len(s) and s[right] not in visited:
+                visited.add(s[right])
+                res=max(res,right-left+1)
+                right+=1
+            visited.remove(s[left])
+        
+        return res
         
 ```
