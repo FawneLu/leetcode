@@ -158,6 +158,7 @@ Table of Contents
 |No.817|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Solution](./817/Solution.py)|[Note](./817/note.md)|Medium|O(n)|O(1)|Linked List|
 |No.1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Solution](./1290/Solution.py)|[Note](./1290/note.md)|Easy|O(n)|O(1)|Linked List|
 |No.147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Solution](./147/Solution.py)|[Note](./147/note.md)|Medium|O(n)|O(1)|Linked List|
+|No.025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Solution](./025/Solution.py)|[Note](./025/note.md)|Hard|O(n)|O(1)|Linked List|
 
 
 
@@ -393,6 +394,7 @@ Table of Contents
 |No.008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Solution](./008/Solution.py)|[Note](./008/note.md)|Medium|O(n)|O(1)||
 |No.016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Solution](./016/Solution.py)|[Note](./016/note.md)|Medium|O(n^2)|O(1)||
 |No.018|[4Sum](https://leetcode.com/problems/4sum/)|[Solution](./018/Solution.py)|[Note](./018/note.md)|Medium|O(n^3)|O(1)||
+|No.029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Solution](./029/Solution.py)|[Note](./029/note.md)|Medium|O(nlogn)|O(1)||
 
 
 
