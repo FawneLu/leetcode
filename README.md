@@ -395,6 +395,7 @@ Table of Contents
 |No.016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Solution](./016/Solution.py)|[Note](./016/note.md)|Medium|O(n^2)|O(1)||
 |No.018|[4Sum](https://leetcode.com/problems/4sum/)|[Solution](./018/Solution.py)|[Note](./018/note.md)|Medium|O(n^3)|O(1)||
 |No.029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Solution](./029/Solution.py)|[Note](./029/note.md)|Medium|O(nlogn)|O(1)||
+|No.030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Solution](./030/Solution.py)|[Note](./030/note.md)|Medium|O(nlogn)|O(1)||
 
 
 
