@@ -391,7 +391,7 @@ Table of Contents
 |No.643|[Maximum Average Subarray I](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./643/Solution.py)|[Note](./643/note.md)|Medium|O(n)|O(1)||
 |No.289|[Game of Life0](https://leetcode.com/problems/game-of-life/)|[Solution](./289/Solution.py)|[Note](./289/note.md)|Medium|O(n)|O(1)||
 |No.008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Solution](./008/Solution.py)|[Note](./008/note.md)|Medium|O(n)|O(1)||
-
+|No.016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Solution](./016/Solution.py)|[Note](./016/note.md)|Medium|O(n^2)|O(1)||
 
 
 
