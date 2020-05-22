@@ -206,6 +206,13 @@ Table of Contents
 |No.625|[Minimum Factorization](https://leetcode.com/problems/minimum-factorization/)|[Solution](./625/Solution.py)|[Note](./625/note.md)|Medium|O(n)|O(1)|Recursion|
 
 
+## DFS
+|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
+|---|-----|--------|----|----------|----|-----|---|
+|No.040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Solution](./040/Solution.py)|[Note](./040/note.md)|Medium|O(n)|O(1)|Queue|
+
+
+
 ## Queue
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
@@ -274,6 +281,7 @@ Table of Contents
 |No.811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Solution](./811/Solution.py)|[Note](./811/note.md)|Easy|O(n)|O(1)|Hash Table|
 |No.692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./692/Solution.py)|[Note](./692/note.md)|Easy|O(n)|O(1)|Hash Table|
 |No.804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](./804/Solution.py)|[Note](./804/note.md)|Easy|O(n)|O(1)|Hash Table|
+
 
 ## Sort
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -395,7 +403,7 @@ Table of Contents
 |No.016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Solution](./016/Solution.py)|[Note](./016/note.md)|Medium|O(n^2)|O(1)||
 |No.018|[4Sum](https://leetcode.com/problems/4sum/)|[Solution](./018/Solution.py)|[Note](./018/note.md)|Medium|O(n^3)|O(1)||
 |No.029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Solution](./029/Solution.py)|[Note](./029/note.md)|Medium|O(nlogn)|O(1)||
-|No.030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Solution](./030/Solution.py)|[Note](./030/note.md)|Medium|O(nlogn)|O(1)||
+|No.030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Solution](./030/Solution.py)|[Note](./030/note.md)|Hard|O(nlogn)|O(1)||
 
 
 
