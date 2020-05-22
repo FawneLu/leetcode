@@ -427,6 +427,7 @@ Table of Contents
 |No.1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Solution](./1060/Solution.py)|[Note](./1060/note.md)|Medium|O(n)|O(1)||
 |No.689|[Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)|[Solution](./689/Solution.py)|[Note](./689/note.md)|Hard|O(n)|O(1)||
 |No.785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Solution](./785/Solution.py)|[Note](./785/note.md)|Hard|O(n)|O(1)||
+|No.043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Solution](./043/Solution.py)|[Note](./043/note.md)|Medium|O(n)|O(1)||
 
 
 
