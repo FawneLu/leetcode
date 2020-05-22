@@ -361,6 +361,7 @@ Table of Contents
 |No.062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./062/Solution.py)|[Note](./062/note.md)|Medium|O(n)|O(1)||
 |No.1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)|[Solution](./1092/Solution.py)|[Note](./1092/note.md)|Hard|O(n)|O(1)||
 |No.044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Solution](./044/Solution.py)|[Note](./044/note.md)|Hard|O(n)|O(1)||
+|No.045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Solution](./045/Solution.py)|[Note](./045/note.md)|Hard|O(n)|O(1)||
 
 
 
@@ -405,6 +406,7 @@ Table of Contents
 |No.018|[4Sum](https://leetcode.com/problems/4sum/)|[Solution](./018/Solution.py)|[Note](./018/note.md)|Medium|O(n^3)|O(1)||
 |No.029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Solution](./029/Solution.py)|[Note](./029/note.md)|Medium|O(nlogn)|O(1)||
 |No.030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Solution](./030/Solution.py)|[Note](./030/note.md)|Hard|O(nlogn)|O(1)||
+|No.036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](./036/Solution.py)|[Note](./036/note.md)|Medium|O(nlogn)|O(1)||
 
 
 
