@@ -348,6 +348,7 @@ Table of Contents
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
+|No.047|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Solution](./047/Solution.py)|[Note](./047/note.md)|Medium|O(n)|O(1)||
 
 
 
