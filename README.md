@@ -411,6 +411,7 @@ Table of Contents
 |No.037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution](./037/Solution.py)|[Note](./037/note.md)|Hard|O(nlogn)|O(1)||
 |No.051|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution](./051/Solution.py)|[Note](./051/note.md)|Hard|O(nlogn)|O(1)||
 |No.052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Solution](./052/Solution.py)|[Note](./052/note.md)|Hard|O(nlogn)|O(1)||
+|No.054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](./054/Solution.py)|[Note](./054/note.md)|Medium|O(nlogn)|O(1)||
 
 
 
