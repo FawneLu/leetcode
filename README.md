@@ -409,6 +409,8 @@ Table of Contents
 |No.030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Solution](./030/Solution.py)|[Note](./030/note.md)|Hard|O(nlogn)|O(1)||
 |No.036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](./036/Solution.py)|[Note](./036/note.md)|Medium|O(nlogn)|O(1)||
 |No.037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution](./037/Solution.py)|[Note](./037/note.md)|Hard|O(nlogn)|O(1)||
+|No.051|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution](./051/Solution.py)|[Note](./051/note.md)|Hard|O(nlogn)|O(1)||
+
 
 
 
