@@ -159,6 +159,7 @@ Table of Contents
 |No.1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Solution](./1290/Solution.py)|[Note](./1290/note.md)|Easy|O(n)|O(1)|Linked List|
 |No.147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Solution](./147/Solution.py)|[Note](./147/note.md)|Medium|O(n)|O(1)|Linked List|
 |No.025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Solution](./025/Solution.py)|[Note](./025/note.md)|Hard|O(n)|O(1)|Linked List|
+|No.061|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](./061/Solution.py)|[Note](./061/note.md)|Hard|O(n)|O(1)|Linked List|
 
 
 
@@ -362,8 +363,8 @@ Table of Contents
 |No.062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./062/Solution.py)|[Note](./062/note.md)|Medium|O(n)|O(1)||
 |No.1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)|[Solution](./1092/Solution.py)|[Note](./1092/note.md)|Hard|O(n)|O(1)||
 |No.044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Solution](./044/Solution.py)|[Note](./044/note.md)|Hard|O(n)|O(1)||
-|No.045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Solution](./045/Solution.py)|[Note](./045/note.md)|Hard|O(n)|O(1)||
-
+|No.045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Solution](./045/Solution.py)|[Note](./045/note.md)|Hard|O(n)|O(1
+|No.063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Solution](./063/Solution.py)|[Note](./063/note.md)|Medium|O(n)|O(1)||
 
 
 
