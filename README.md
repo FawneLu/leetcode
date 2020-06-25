@@ -308,6 +308,7 @@ Table of Contents
 |No.786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Solution](./786/Solution.py)|[Note](./786/note.md)|Hard|O(n)|O(1)|Binary Search|
 |No.668|[Kth Smallest Number in Multiplication Tablen](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Solution](./668/Solution.py)|[Note](./668/note.md)|Hard|O(n)|O(1)|Binary Search|
 |No.374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Solution](./374/Solution.py)|[Note](./374/note.md)|Easy|O(n)|O(1)|Binary Search|
+|No.658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Solution](./658/Solution.py)|[Note](./658/note.md)|Medium|O(log(n)+k)|O(k)|Binary Search|
 
 
 
