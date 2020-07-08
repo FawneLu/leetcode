@@ -1,3 +1,40 @@
+class Solution:
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        res = []
+        
+        def dfs(index, layer):
+            if layer == len(nums):
+                res.append(nums[:])
+                return
+            
+            for i in range(index, len(nums)):
+                nums[i], nums[index] = nums[index], nums[i]
+                dfs(index+1, layer+1)
+                nums[i], nums[index] = nums[index], nums[i]
+        
+        dfs(0,0)
+        return res
+        
+        
+    
+    def permute1(self, nums: List[int]) -> List[List[int]]:
+        res = []
+        visited=[0] * len(nums)
+            
+        def dfs(layer, solutions):
+            if layer == len(nums):
+                res.append(solutions)
+                return
+            
+            for i in range(len(nums)):
+                if not visited[i]:
+                    visited[i] = 1
+                    dfs(layer+1, solutions+[nums[i]])
+                    visited[i] = 0
+            
+        dfs(0, [])
+        return res
+
 ```python
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
