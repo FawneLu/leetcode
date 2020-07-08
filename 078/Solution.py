@@ -18,3 +18,17 @@ class Solution:
                 res.append(res[i]+[num])
         return res
 ```
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        res = []
+        
+        def dfs(layer, solutions):
+            if layer == len(nums):
+                res.append(solutions)
+                return 
+            
+            dfs(layer+1, solutions+[nums[layer]])
+            dfs(layer+1, solutions)
+            
+        dfs(0, [])
+        return res
