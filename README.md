@@ -213,6 +213,7 @@ Table of Contents
 |No.040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Solution](./040/Solution.py)|[Note](./040/note.md)|Medium|O(n)|O(1)|DFS|
 |No.046|[ Permutations](https://leetcode.com/problems/permutations/)|[Solution](./046/Solution.py)|[Note](./046/note.md)|Medium|O(n!)|O(1)|DFS|
 |No.078|[Subsets](https://leetcode.com/problems/subsets/)|[Solution](./078/Solution.py)|[Note](./078/note.md)|Medium|O(2^n)|O(1)|DFS|
+|No.039|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](./039/Solution.py)|[Note](./039/note.md)|Medium|O(n)|O(1)||     
 
 
 ## Queue
@@ -270,6 +271,9 @@ Table of Contents
 |No.272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)|[Solution](./272/Solution.py)|[Note](./272/note.md)|Hard|O(n)|O(1)||
 |No.742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/)|[Solution](./742/Solution.py)|[Note](./742/note.md)|Medium|O(n)|O(1)||
 |No.655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/)|[Solution](./655/Solution.py)|[Note](./655/note.md)|Medium|O(n)|O(1)||
+|No.429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Solution](./429/Solution.py)|[Note](./429/note.md)|Medium|O(n)|O(1)||
+|No.589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Solution](./589/Solution.py)|[Note](./589/note.md)|Easy|O(n)|O(1)||
+|No.590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Solution](./590/Solution.py)|[Note](./590/note.md)|Easy|O(n)|O(1)||
 
 
 
