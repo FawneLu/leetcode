@@ -342,6 +342,7 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.957|[ Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Solution](./957/Solution.py)|[Note](./957/note.md)|Hard|O(n)|O(1)||
 |No.263|[ Ugly Number](https://leetcode.com/problems/ugly-number/)|[Solution](./263/Solution.py)|[Note](./263/note.md)|Easy|O(n)|O(1)||
+|No.829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Solution](./829/Solution.py)|[Note](./829/note.md)|Hard|O(n)|O(1)||
 
 
 ## Graph
