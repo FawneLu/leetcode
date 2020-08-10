@@ -17,3 +17,36 @@ class Solution:
         res=res+s_list[-1]
         return res
 ```
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        s += " "
+        stack = []
+        res = ""
+         
+        for char in s:
+            if char != " ":
+                stack.append(char)
+            else:
+                if not stack:
+                    continue
+                while stack:
+                    res += stack.pop()
+                res += " "
+            
+        return res[::-1][1:]
+    
+    
+    def reverseWords1(self, s: str) -> str:
+        s += " "
+        word = ""
+        res = ""
+        
+        for char in s:
+            if char == " " and word:
+                res += word[::-1]
+                res += " "
+                word = ""
+            elif char != " ":
+                word += char
+                
+        return res[::-1][1:]
