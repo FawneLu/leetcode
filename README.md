@@ -132,7 +132,7 @@ Table of Contents
 |No.551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Solution](./551/Solution.py)|[Note](./551/note.md)|Easy|O(n)|O(1)|String|
 |No.556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Solution](./556/Solution.py)|[Note](./556/note.md)|Medium|O(n)|O(1)|String|
 |No.1177|[Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)|[Solution](./1177/Solution.py)|[Note](./1177/note.md)|Medium|O(n)|O(1)|String|
-|No.065|[Valid Number](https://leetcode.com/problems/valid-number/)|[Solution](./065/Solution.py)|[Note](./065/note.md)|Hard|O(n)|O(1)|String|
+|No.242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](./242/Solution.py)|[Note](./242/note.md)|Easy|O(n)|O(1)|String|
 
 
 
