@@ -1,5 +1,22 @@
 class Solution:
-    def isValidSudoku(self, board: List[List[str]]) -> bool:
+    def isValidSudoku(board):
+        n = len(board)
+        visited = set()
+        for i in range(n):
+            for j in range(n):
+                num = board[i][j]
+                if num != ".":
+                    if num + " in row " + str(i) in visited or num + " in col " + str(j) in visited or num + " in cell " + str(i//3) + "-" + str(j//3) in visited:
+                        return False
+                    visited.add(num + " in row " + str(i))
+                    visited.add(num + " in col " + str(j))
+                    visited.add(num + " in cell " + str(i//3) + "-" + str(j//3))
+
+        return True
+
+
+
+    def isValidSudoku1(self, board: List[List[str]]) -> bool:
         return self.isValidRow(board) and self.isValidCol(board) and self.isValidCell(board)
     
     def isValidRow(self,board):
