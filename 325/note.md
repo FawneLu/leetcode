@@ -1,0 +1,1 @@
+循环数组，用一个变量 cur_sum 记录到目前为止所有数组的和，如果等于k则更新max_len，在用一个 map 记录累加和的index，技巧：因为是求最长数组，所以一个和只记录第一次的index，以后出现的位置靠后，就不记录了。如果cur_sum在hashmap 中，表示当前位置去掉hashmap中记录的cur_sum - k的 index 的和等于k,  用两个index的差更新max_len。
