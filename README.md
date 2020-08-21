@@ -275,6 +275,7 @@ Table of Contents
 |No.429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Solution](./429/Solution.py)|[Note](./429/note.md)|Medium|O(n)|O(1)||
 |No.589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Solution](./589/Solution.py)|[Note](./589/note.md)|Easy|O(n)|O(1)||
 |No.590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Solution](./590/Solution.py)|[Note](./590/note.md)|Easy|O(n)|O(1)||
+|No.1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Solution](./1302/Solution.py)|[Note](./1302/note.md)|Easy|O(n)|O(1)||
 
 
 
@@ -290,6 +291,7 @@ Table of Contents
 |No.692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./692/Solution.py)|[Note](./692/note.md)|Easy|O(n)|O(1)|Hash Table|
 |No.804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](./804/Solution.py)|[Note](./804/note.md)|Easy|O(n)|O(1)|Hash Table|
 |No.325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|[Solution](./325/Solution.py)|[Note](./325/note.md)|Medium|O(n)|O(n)|Hash Table|
+
 
 
 ## Sort
