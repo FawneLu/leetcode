@@ -278,6 +278,7 @@ Table of Contents
 |No.1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Solution](./1302/Solution.py)|[Note](./1302/note.md)|Easy|O(n)|O(1)||
 |No.110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Solution](./110/Solution.py)|[Note](./110/note.md)|Easy|O(n)|O(1)||
 |No.113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Solution](./113/Solution.py)|[Note](./113/note.md)|Easy|O(n)|O(1)||
+|No.235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](./235/Solution.py)|[Note](./235/note.md)|Easy|O(n)|O(n)||
 
 
 ## Hash Table
