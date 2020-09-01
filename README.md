@@ -106,6 +106,7 @@ Table of Contents
 |No.561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Solution](./561/Solution.py)|[Note](./561/note.md)|Easy|O(n)|O(1)|Array|
 |No.485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](./485/Solution.py)|[Note](./485/note.md)|Easy|O(n)|O(1)|Array|
 |No.724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](./724/Solution.py)|[Note](./724/note.md)|Easy|O(n)|O(1)|Array|
+|No.912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Solution](./912/Solution.py)|[Note](./912/note.md)|Medium|O(n)|O(1)|Array|
 
 
 ## String
