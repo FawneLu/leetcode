@@ -336,6 +336,7 @@ Table of Contents
 |No.450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Solution](./450/Solution.py)|[Note](./450/note.md)|Easy|O(n)|O(1)|Binary Search Tree|
 |No.530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Solution](./530/Solution.py)|[Note](./530/note.md)|Easy|O(n)|O(H)|Binary Search Tree|
 |No.700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](./700/Solution.py)|[Note](./700/note.md)|Easy|O(H)|O(H)|Binary Search Tree|
+|No.230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](./230/Solution.py)|[Note](./230/note.md)|Medium|O(n)|O(n)|Binary Search Tree|
 
 
 
