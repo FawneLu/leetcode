@@ -337,7 +337,8 @@ Table of Contents
 |No.530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Solution](./530/Solution.py)|[Note](./530/note.md)|Easy|O(n)|O(H)|Binary Search Tree|
 |No.700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](./700/Solution.py)|[Note](./700/note.md)|Easy|O(H)|O(H)|Binary Search Tree|
 |No.230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](./230/Solution.py)|[Note](./230/note.md)|Medium|O(n)|O(n)|Binary Search Tree|
-
+|No.108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Solution](./108/Solution.py)|[Note](./108/note.md)|Easy|O(n)|O(n)|Binary Search Tree|
+|No.501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Solution](./501/Solution.py)|[Note](./501/note.md)|Easy|O(n)|O(n)|Binary Search Tree|
 
 
 
