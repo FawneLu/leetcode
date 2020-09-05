@@ -162,6 +162,7 @@ Table of Contents
 |No.147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Solution](./147/Solution.py)|[Note](./147/note.md)|Medium|O(n)|O(1)|Linked List|
 |No.025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Solution](./025/Solution.py)|[Note](./025/note.md)|Hard|O(n)|O(1)|Linked List|
 |No.061|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](./061/Solution.py)|[Note](./061/note.md)|Hard|O(n)|O(1)|Linked List|
+|No.707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Solution](./707/Solution.py)|[Note](./707/note.md)|Medium|O(n)|O(1)|Linked List|
 
 
 
@@ -333,6 +334,8 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Solution](./450/Solution.py)|[Note](./450/note.md)|Easy|O(n)|O(1)|Binary Search Tree|
+|No.530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Solution](./530/Solution.py)|[Note](./530/note.md)|Easy|O(n)|O(H)|Binary Search Tree|
+|No.700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](./700/Solution.py)|[Note](./700/note.md)|Easy|O(H)|O(H)|Binary Search Tree|
 
 
 
