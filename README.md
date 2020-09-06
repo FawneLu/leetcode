@@ -451,6 +451,9 @@ Table of Contents
 |No.059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Solution](./059/Solution.py)|[Note](./059/note.md)|Medium|O(nlogn)|O(1)||
 |No.057|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Solution](./057/Solution.py)|[Note](./057/note.md)|Hard|O(n)|O(1)||
 |No.060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[Solution](./060/Solution.py)|[Note](./060/note.md)|Medium|O(n^2)|O(n)||
+|No.073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Solution](./073/Solution.py)|[Note](./073/note.md)|Medium|O(m*n)|O(m+n)||
+
+
 
 
 ## Facebook
