@@ -107,6 +107,8 @@ Table of Contents
 |No.485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](./485/Solution.py)|[Note](./485/note.md)|Easy|O(n)|O(1)|Array|
 |No.724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](./724/Solution.py)|[Note](./724/note.md)|Easy|O(n)|O(1)|Array|
 |No.912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Solution](./912/Solution.py)|[Note](./912/note.md)|Medium|O(n)orO(logn)|O(1)|Array|
+|No.080|[ Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Solution](./080/Solution.py)|[Note](./080/note.md)|Medium|O(n)|O(1)|Array|
+
 
 
 ## String
@@ -387,6 +389,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.047|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Solution](./047/Solution.py)|[Note](./047/note.md)|Medium|O(n)|O(1)||
+|No.077|[Combinations](https://leetcode.com/problems/combinations/)|[Solution](./077/Solution.py)|[Note](./077/note.md)|Medium|O(n)|O(1)||
 
 
 
