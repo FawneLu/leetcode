@@ -76,6 +76,7 @@ Table of Contents
 
 
 
+
 ## Array
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
@@ -390,6 +391,7 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.047|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Solution](./047/Solution.py)|[Note](./047/note.md)|Medium|O(n)|O(1)||
 |No.077|[Combinations](https://leetcode.com/problems/combinations/)|[Solution](./077/Solution.py)|[Note](./077/note.md)|Medium|O(n)|O(1)||
+|No.089|[Gray Code](https://leetcode.com/problems/gray-code/)|[Solution](./089/Solution.py)|[Note](./089/note.md)|Medium|O(n)|O(1)||
 
 
 
