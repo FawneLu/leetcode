@@ -328,6 +328,7 @@ Table of Contents
 |No.658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Solution](./658/Solution.py)|[Note](./658/note.md)|Medium|O(log(n)+k)|O(k)|Binary Search|
 |No.154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Solution](./154/Solution.py)|[Note](./154/note.md)|Medium|O(log(n))|O(1)|Binary Search|
 |No.074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](./074/Solution.py)|[Note](./074/note.md)|Medium|O(log(n))|O(1)|Binary Search|
+|No.081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](./081/Solution.py)|[Note](./081/note.md)|Medium|O(log(n))|O(1)|Binary Search|
 
 
 
