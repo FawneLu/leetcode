@@ -16,3 +16,4 @@ class Solution(object):
                 prev = num
         return index
 ```
+隔板法
