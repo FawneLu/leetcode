@@ -32,6 +32,21 @@ class Solution:
     
     def sortArray1(self, nums: List[int]) -> List[int]:
         def partition(nums, left, right):
+            pivot_val = nums[right]
+            #nums[left], nums[right] = nums[right], nums[left]
+            i, j = left, right - 1
+            while i <= j:
+                if nums[i] >= pivot_val:
+                    nums[i], nums[j] = nums[j], nums[i]
+                    j -= 1
+                else:
+                    i += 1
+            
+            nums[i], nums[right] = nums[right], nums[i]
+            #print(nums)
+            return i
+            
+        def partition1(nums, left, right):
             pivot_index = left
             pivot_val = nums[left]
             while left < right:
