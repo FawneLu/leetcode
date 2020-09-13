@@ -138,6 +138,7 @@ Table of Contents
 |No.1177|[Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)|[Solution](./1177/Solution.py)|[Note](./1177/note.md)|Medium|O(n)|O(1)|String|
 |No.242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](./242/Solution.py)|[Note](./242/note.md)|Easy|O(n)|O(1)|String|
 |No.1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Solution](./1047/Solution.py)|[Note](./1047/note.md)|Easy|O(n)|O(1)|String|
+|No.1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Solution](./1209/Solution.py)|[Note](./1209/note.md)|Easy|O(n)|O(1)|String|
 
 
 
