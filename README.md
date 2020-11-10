@@ -336,6 +336,7 @@ Table of Contents
 |No.154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Solution](./154/Solution.py)|[Note](./154/note.md)|Medium|O(log(n))|O(1)|Binary Search|
 |No.074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](./074/Solution.py)|[Note](./074/note.md)|Medium|O(log(n))|O(1)|Binary Search|
 |No.081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](./081/Solution.py)|[Note](./081/note.md)|Medium|O(log(n))|O(1)|Binary Search|
+|No.704|[ Binary Search](https://leetcode.com/problems/binary-search/submissions/)|[Solution](./704/Solution.py)|[Note](./704/note.md)|Easy|O(log(n))|O(1)|Binary Search|
 
 
 
