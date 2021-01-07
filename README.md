@@ -305,6 +305,7 @@ Table of Contents
 |No.692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./692/Solution.py)|[Note](./692/note.md)|Easy|O(n)|O(1)|Hash Table|
 |No.804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](./804/Solution.py)|[Note](./804/note.md)|Easy|O(n)|O(1)|Hash Table|
 |No.325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|[Solution](./325/Solution.py)|[Note](./325/note.md)|Medium|O(n)|O(n)|Hash Table|
+|No.554|[Brick Wall](https://leetcode.com/problems/brick-wall/)|[Solution](./554/Solution.py)|[Note](./554/note.md)|Medium|O(n)|O(m)|Hash Map|
 
 
 
