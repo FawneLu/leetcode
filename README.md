@@ -356,6 +356,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Solution](./713/Solution.py)|[Note](./713/note.md)|Medium|O(n)|O(1)||
+|No.1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)|[Solution](./1343/Solution.py)|[Note](./1343/note.md)|Medium|O(n)|O(1)||
 
 
 
