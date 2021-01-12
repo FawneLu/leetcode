@@ -350,6 +350,7 @@ Table of Contents
 |No.230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](./230/Solution.py)|[Note](./230/note.md)|Medium|O(n)|O(n)|Binary Search Tree|
 |No.108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Solution](./108/Solution.py)|[Note](./108/note.md)|Easy|O(n)|O(n)|Binary Search Tree|
 |No.501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Solution](./501/Solution.py)|[Note](./501/note.md)|Easy|O(n)|O(n)|Binary Search Tree|
+|No.1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Solution](./1382/Solution.py)|[Note](./1382/note.md)|Easy|O(n)|O(n)|Binary Search Tree|
 
 
 
