@@ -1,0 +1,14 @@
+**
+* Build an albums search app using pure HTML, CSS, JavaScript, without any library.
+*
+* basic requirement:
+* 1. Create a SearchBar Component for User to input an ArtistName to search alums
+* 2. Create an ITunesAPI Service to fetch the information about the artist’s Alums
+* 3. When the user press ‘enter’ in the SearchBar, make an ITunesAPI Service call to fetch the information about the artist’s albums.
+* 4. API URL: https://itunes.apple.com/search?term=${ARTIST_NAME}&media=music&entity=album&attribute=artistTerm&limit=500
+* 5. Create an AlbumsList to display the list of albums, including the album name and cover.
+* 6. Style the page to the best of the ability to make the UI look clean and presentable
+*
+*
+* demo link:
+* https://csb-0r0bv.netlify.app/

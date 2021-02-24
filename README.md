@@ -392,6 +392,7 @@ Table of Contents
 |No.778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[Solution](./778/Solution.py)|[Note](./778/note.md)|Easy|O(n)|O(1)||
 |No.323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|[Solution](./323/Solution.py)|[Note](./323/note.md)|Medium|O(n)|O(n)||
 |No.261|[ Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[Solution](./261/Solution.py)|[Note](./261/note.md)|Medium|O(n)|O(n)||
+|No.210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Solution](./210/Solution.py)|[Note](./210/note.md)|Medium|O(n)|O(n)||
 
 
 
