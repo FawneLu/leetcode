@@ -403,6 +403,7 @@ Table of Contents
 |No.077|[Combinations](https://leetcode.com/problems/combinations/)|[Solution](./077/Solution.py)|[Note](./077/note.md)|Medium|O(n)|O(1)||
 |No.089|[Gray Code](https://leetcode.com/problems/gray-code/)|[Solution](./089/Solution.py)|[Note](./089/note.md)|Medium|O(n**2)|O(n)||
 |No.093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Solution](./093/Solution.py)|[Note](./093/note.md)|Medium|??|??||
+|No.488|[Zuma Game](https://leetcode.com/problems/zuma-game/)|[Solution](./488/Solution.py)|[Note](./488/note.md)|Medium|O((n+m)^m*n^2)|O(m*n)||
 
 
 
@@ -420,6 +421,8 @@ Table of Contents
 |No.063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Solution](./063/Solution.py)|[Note](./063/note.md)|Medium|O(n)|O(1)||
 |No.091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./091/Solution.py)|[Note](./091/note.md)|Medium|O(n)|O(n)||
 |No.097|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Solution](./097/Solution.py)|[Note](./097/note.md)|Hard|O(n)|O(n)||
+|No.1478|[Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/)|[Solution](./1478/Solution.py)|[Note](./1478/note.md)|Hard|O(n^3)|O(n^2) -> O(n)||
+
 
 
 ## BFS
